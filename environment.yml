@@ -1,0 +1,9 @@
+name: cse216-map
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - ollama==0.6.3
+      - jsonschema==4.26.0
