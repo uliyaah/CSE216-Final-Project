@@ -1,23 +1,31 @@
 import { useState } from "react";
-import { Container, Stack, ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
+import { Box, Container, Stack, Typography } from "@mui/material";
 import SpecRenderer from "./SpecRenderer";
-import { mapSpec, noMapSpec } from "./sampleSpec";
+import ChatView from "./ChatView";
 
-const specs = { map: mapSpec, none: noMapSpec };
-
-// Swap `specs[which]` for a fetch to the backend once the endpoint is ready.
 export default function App() {
-  const [which, setWhich] = useState("map");
+  const [visualization, setVisualization] = useState(null);
+
+  function handleResponse(response) {
+    setVisualization(response?.visualization === "map" ? response : null);
+  }
 
   return (
-    <Container maxWidth="md" sx={{ py: 4 }}>
+    <Container maxWidth="xl" sx={{ py: 4 }}>
       <Stack spacing={2}>
-        <Typography variant="h5">Spec renderer (test)</Typography>
-        <ToggleButtonGroup exclusive size="small" value={which} onChange={(_, v) => v && setWhich(v)}>
-          <ToggleButton value="map">Spec with locations</ToggleButton>
-          <ToggleButton value="none">Spec without locations</ToggleButton>
-        </ToggleButtonGroup>
-        <SpecRenderer spec={specs[which]} />
+        <Typography variant="h5" component="h1">Location chat</Typography>
+        <Box sx={{
+          display: "grid",
+          gridTemplateColumns: {
+            xs: "minmax(0, 1fr)",
+            md: visualization ? "repeat(2, minmax(0, 1fr))" : "minmax(0, 1fr)",
+          },
+          gap: 3,
+          alignItems: "start",
+        }}>
+          <ChatView onResponse={handleResponse} />
+          {visualization && <SpecRenderer spec={visualization} showEmptyMap />}
+        </Box>
       </Stack>
     </Container>
   );

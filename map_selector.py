@@ -61,7 +61,7 @@ def run(message, context_locations=None, model=MODEL):
         return None, trace
     if status == "context":
         names = list(dict.fromkeys(context_locations or []))
-        if len(names) != 1:
+        if len(names) <= 0:
             return None, trace
     else:
         data, raw = call(message, NAMES_PROMPT, NAMES_SCHEMA, model)

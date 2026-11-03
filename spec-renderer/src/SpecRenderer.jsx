@@ -1,10 +1,10 @@
 import MapView from "./MapView";
 import { collectLocations } from "./collectLocations";
 
-// Rule: if the spec has location data, render a map. Otherwise render nothing.
-// The renderer makes no layout choices beyond this rule.
-export default function SpecRenderer({ spec }) {
+// Annotated specs render only when they contain coordinates.
+// Chat can also request an empty map when the backend returns names only.
+export default function SpecRenderer({ spec, showEmptyMap = false }) {
   const points = collectLocations(spec);
-  if (points.length === 0) return null;
+  if (points.length === 0 && !showEmptyMap) return null;
   return <MapView points={points} />;
 }

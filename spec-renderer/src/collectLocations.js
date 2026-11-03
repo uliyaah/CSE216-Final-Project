@@ -1,13 +1,12 @@
-// Walks the spec and returns every point that should appear on a map.
-// A map is shown only when at least one attribute has render === "location"
-// and the data for it contains coordinates.
+// Supports both backend locations and annotated specs with coordinates.
 
 const entityName = (type) => {
   const m = /^__(.+)__$/.exec(type || "");
   return m ? m[1] : null;
 };
 
-const isPoint = (v) => v && typeof v.lat === "number" && typeof v.lng === "number";
+const isPoint = (v) => v && Number.isFinite(v.lat) && Number.isFinite(v.lng)
+  && Math.abs(v.lat) <= 90 && Math.abs(v.lng) <= 180;
 
 function collectFromEntity(spec, entityType, instance, label, out) {
   const attrs = spec.schema?.[entityType];
@@ -34,6 +33,9 @@ function collectFromEntity(spec, entityType, instance, label, out) {
 }
 
 export function collectLocations(spec) {
+  if (Array.isArray(spec?.locations)) {
+    return spec.locations.filter(isPoint);
+  }
   if (!spec?.task) return [];
   const out = [];
   collectFromEntity(spec, spec.task, spec.data?.[spec.task], null, out);
