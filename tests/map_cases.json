@@ -1,0 +1,2125 @@
+[
+  {
+    "id": "paris",
+    "group": "regression",
+    "message": "Locate Paris, France.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Paris",
+          "lat": 48.85666666666667,
+          "lng": 2.352222222222222,
+          "source": "https://www.wikidata.org/wiki/Q90",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Paris"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "delft",
+    "group": "regression",
+    "message": "Locate Delft, Netherlands.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Delft",
+          "lat": 52.01166666666666,
+          "lng": 4.359166666666667,
+          "source": "https://www.wikidata.org/wiki/Q690",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Delft"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "eiffel",
+    "group": "regression",
+    "message": "Locate the Eiffel Tower in Paris.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "opera",
+    "group": "regression",
+    "message": "Locate the Sydney Opera House.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Sydney Opera House",
+          "lat": -33.857058,
+          "lng": 151.214897,
+          "source": "https://www.wikidata.org/wiki/Q45178",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Sydney Opera House"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "laundry",
+    "group": "regression",
+    "message": "Locate The French Laundry restaurant in Yountville, California.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "katz",
+    "group": "regression",
+    "message": "Locate Katz's Delicatessen on East Houston Street in New York City.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Katz's Delicatessen",
+          "lat": 40.7223,
+          "lng": -73.9874,
+          "source": "https://www.wikidata.org/wiki/Q2611788",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Katz's Delicatessen"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "two-landmarks",
+    "group": "regression",
+    "message": "Show the Eiffel Tower and the Sydney Opera House on a map.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Sydney Opera House",
+          "lat": -33.857058,
+          "lng": 151.214897,
+          "source": "https://www.wikidata.org/wiki/Q45178",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Sydney Opera House"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "fresh-rotterdam",
+    "group": "regression",
+    "message": "Locate Rotterdam, Netherlands.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Rotterdam",
+          "lat": 51.92,
+          "lng": 4.48,
+          "source": "https://www.wikidata.org/wiki/Q34370",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Rotterdam"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "fresh-cambridge",
+    "group": "regression",
+    "message": "Locate Cambridge, Massachusetts, United States.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Cambridge",
+          "lat": 42.375,
+          "lng": -71.106111111111,
+          "source": "https://www.wikidata.org/wiki/Q49111",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Cambridge"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "fresh-louvre",
+    "group": "regression",
+    "message": "Locate the Louvre Museum in Paris.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "fresh-jeanty",
+    "group": "regression",
+    "message": "Locate Bistro Jeanty in Yountville, California.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "preference",
+    "group": "regression",
+    "message": "Two guests are vegetarian.",
+    "context_locations": [],
+    "expected": null,
+    "test_set": "original"
+  },
+  {
+    "id": "missing-area",
+    "group": "regression",
+    "message": "Find restaurants near me.",
+    "context_locations": [],
+    "expected": null,
+    "test_set": "original"
+  },
+  {
+    "id": "invented-venue",
+    "group": "regression",
+    "message": "Locate Zorblax's Cosmic Noodles in Delft, Netherlands.",
+    "context_locations": [],
+    "expected": null,
+    "test_set": "original"
+  },
+  {
+    "id": "fresh-non-geographic",
+    "group": "regression",
+    "message": "Write a poem about Rotterdam.",
+    "context_locations": [],
+    "expected": null,
+    "test_set": "original"
+  },
+  {
+    "id": "new-Q9202",
+    "group": "new",
+    "message": "Locate the Statue of Liberty in New York.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Statue of Liberty",
+          "aliases": [
+            "Statue of Liberty"
+          ],
+          "lat": 40.689209166667,
+          "lng": -74.044425277778,
+          "source": "https://www.wikidata.org/wiki/Q9202",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "new-Q1490",
+    "group": "new",
+    "message": "Locate Tokyo, Japan.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Tokyo",
+          "aliases": [
+            "Tokyo"
+          ],
+          "lat": 35.68944444444445,
+          "lng": 139.69166666666666,
+          "source": "https://www.wikidata.org/wiki/Q1490",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 2000
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "restaurants",
+    "group": "regression",
+    "message": "Show three restaurants in Yountville, California.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 3,
+    "note": "Any requested number of distinct venues in this verified reference pool is accepted. The pool is not exhaustive: other venues require verification, not an assumption that they are wrong.",
+    "test_set": "original"
+  },
+  {
+    "id": "context-restaurants",
+    "group": "new",
+    "message": "Show three restaurants nearby.",
+    "context_locations": [
+      "Yountville, California"
+    ],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 3,
+    "note": "Any requested number of distinct venues in this verified reference pool is accepted. The pool is not exhaustive: other venues require verification, not an assumption that they are wrong.",
+    "test_set": "original"
+  },
+  {
+    "id": "ambiguous-context",
+    "group": "new",
+    "message": "Find restaurants nearby.",
+    "context_locations": [
+      "Yountville, California",
+      "Delft, Netherlands"
+    ],
+    "expected": null,
+    "test_set": "original"
+  },
+  {
+    "id": "where-paris",
+    "group": "new",
+    "message": "Where is Paris, France?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Paris",
+          "lat": 48.85666666666667,
+          "lng": 2.352222222222222,
+          "source": "https://www.wikidata.org/wiki/Q90",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Paris"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    },
+    "test_set": "original"
+  },
+  {
+    "id": "stress-fat-duck",
+    "test_set": "stress",
+    "group": "named-business",
+    "message": "That restaurant called The Fat Duck, in Bray, England—where exactly is it?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The Fat Duck",
+          "aliases": [
+            "The Fat Duck",
+            "Fat Duck"
+          ],
+          "lat": 51.50793,
+          "lng": -0.701764,
+          "source": "https://www.wikidata.org/wiki/Q2300919",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-cameroon-museum",
+    "test_set": "stress",
+    "group": "non-english",
+    "message": "À Yaoundé, où se trouve le Musée national du Cameroun ?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "National Museum of Cameroon",
+          "aliases": [
+            "National Museum of Cameroon",
+            "Musée National du Cameroun",
+            "Musée national",
+            "National Museum"
+          ],
+          "lat": 3.86039,
+          "lng": 11.51569,
+          "source": "https://www.wikidata.org/wiki/Q16335742",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://cameroon-nationalmuseum.cm/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-aoraki",
+    "test_set": "stress",
+    "group": "natural-feature",
+    "message": "Aoraki / Mount Cook—whereabouts in New Zealand?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Aoraki / Mount Cook",
+          "aliases": [
+            "Aoraki / Mount Cook",
+            "Aoraki/Mount Cook",
+            "Mount Cook",
+            "Aoraki"
+          ],
+          "lat": -43.595,
+          "lng": 170.14194444444445,
+          "source": "https://www.wikidata.org/wiki/Q5059",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-address",
+    "test_set": "stress",
+    "group": "street-address",
+    "message": "Pin 10 Downing Street, London.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "10 Downing Street",
+          "aliases": [
+            "10 Downing Street",
+            "10",
+            "Number 10"
+          ],
+          "lat": 51.50333333333333,
+          "lng": -0.1277777777777778,
+          "source": "https://www.wikidata.org/wiki/Q169101",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-coordinates",
+    "test_set": "stress",
+    "group": "explicit-coordinates",
+    "message": "Put a pin at latitude -33.8568 and longitude 151.2153.",
+    "context_locations": [],
+    "evaluation": "coordinates",
+    "note": "Exactly one pin within 25 metres of the supplied point; display name is unrestricted. This intentionally probes a capability beyond named-place lookup.",
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "User-specified point",
+          "lat": -33.8568,
+          "lng": 151.2153,
+          "source": "Coordinates supplied in the request; no geocoder reference needed.",
+          "tolerance_m": 25
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-multiple-targets",
+    "test_set": "stress",
+    "group": "multiple-targets",
+    "message": "Show Timbuktu in Mali and the Bibliotheca Alexandrina in Egypt on one map.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Timbuktu",
+          "aliases": [
+            "Timbuktu",
+            "Tombouctou",
+            "Tombuctú"
+          ],
+          "lat": 16.773333055556,
+          "lng": -2.9994438888889,
+          "source": "https://www.wikidata.org/wiki/Q9427",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 2000
+        },
+        {
+          "name": "Bibliotheca Alexandrina",
+          "aliases": [
+            "Bibliotheca Alexandrina",
+            "Library of Alexandria",
+            "Alexandria Library",
+            "مكتبة الإسكندرية"
+          ],
+          "lat": 31.208888888889,
+          "lng": 29.909166666667,
+          "source": "https://www.wikidata.org/wiki/Q501851",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-negation",
+    "test_set": "stress",
+    "group": "negated-target",
+    "message": "Mark the Louvre in Paris, not the Eiffel Tower.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-directions",
+    "test_set": "stress",
+    "group": "directions-endpoints",
+    "message": "How do I get from the Eiffel Tower to the Louvre in Paris?",
+    "context_locations": [],
+    "note": "Evaluate both endpoint pins only. Route geometry and navigation instructions are outside this output schema.",
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-distance",
+    "test_set": "stress",
+    "group": "distance-endpoints",
+    "message": "How far is Paris, France, from Delft, Netherlands?",
+    "context_locations": [],
+    "note": "Evaluate both endpoint pins only, not a numeric distance answer.",
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Paris",
+          "lat": 48.85666666666667,
+          "lng": 2.352222222222222,
+          "source": "https://www.wikidata.org/wiki/Q90",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Paris"
+          ],
+          "tolerance_m": 2000
+        },
+        {
+          "name": "Delft",
+          "lat": 52.01166666666666,
+          "lng": 4.359166666666667,
+          "source": "https://www.wikidata.org/wiki/Q690",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Delft"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-mixed-intent",
+    "test_set": "stress",
+    "group": "mixed-intent",
+    "message": "Find the Eiffel Tower in Paris, and tell me its opening hours.",
+    "context_locations": [],
+    "note": "Evaluate the requested map target; opening hours are outside this output schema.",
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "stress-recipe",
+    "test_set": "stress",
+    "group": "negative",
+    "message": "How do I cook jambalaya with ingredients available in Cameroon?",
+    "context_locations": [],
+    "expected": null,
+    "note": "Recipe request, not a place search."
+  },
+  {
+    "id": "stress-quoted-request",
+    "test_set": "stress",
+    "group": "negative",
+    "message": "Translate 'Where is Timbuktu?' into French.",
+    "context_locations": [],
+    "expected": null,
+    "note": "Translation request; quoted location question is not an instruction to locate."
+  },
+  {
+    "id": "stress-unknown-position",
+    "test_set": "stress",
+    "group": "negative",
+    "message": "Nearest apothecary to me, please.",
+    "context_locations": [],
+    "expected": null,
+    "note": "User physical location is unknown."
+  },
+  {
+    "id": "stress-unresolved-pronouns",
+    "test_set": "stress",
+    "group": "negative",
+    "message": "Take me from there to the other one.",
+    "context_locations": [
+      "Delft, Netherlands",
+      "Rotterdam, Netherlands"
+    ],
+    "expected": null,
+    "note": "Endpoints are not explicitly identified; this implementation has no conversational coreference history."
+  },
+  {
+    "id": "stress-no-map",
+    "test_set": "stress",
+    "group": "explicit-no-map",
+    "message": "Do not show a map; explain why Paris is called the City of Light.",
+    "context_locations": [],
+    "note": "Factual explanation with an explicit instruction not to show a map.",
+    "expected": null
+  },
+  {
+    "id": "stress-jambalaya",
+    "test_set": "stress",
+    "group": "exploratory",
+    "message": "Where can I eat jambalaya in Cameroon?",
+    "context_locations": [],
+    "evaluation": "review",
+    "requirements": "A returned venue must be in Cameroon and independently documented to serve jambalaya. A generic restaurant is insufficient.",
+    "note": "No exhaustive reference set. Null is abstention with unknown recall, not evidence of absence. Returned pins require independent verification; never counted automatically as accuracy successes."
+  },
+  {
+    "id": "stress-victuals",
+    "test_set": "stress",
+    "group": "exploratory",
+    "message": "closest victuals delft and rotterdam",
+    "context_locations": [],
+    "evaluation": "review",
+    "requirements": "Recognize food/place-search intent, but there is no unambiguous origin for closest. Report how the system resolves this ambiguity; do not score an arbitrary restaurant as a verified nearest match.",
+    "note": "No exhaustive reference set. Null is abstention with unknown recall, not evidence of absence. Returned pins require independent verification; never counted automatically as accuracy successes."
+  },
+  {
+    "id": "stress-context-apothecaries",
+    "test_set": "stress",
+    "group": "context-category",
+    "message": "Two apothecaries nearby, if you please.",
+    "context_locations": [
+      "Delft, Netherlands"
+    ],
+    "evaluation": "review",
+    "requirements": "Exactly two distinct actual pharmacies in Delft; independently verify identities, addresses and coordinates. This combines rare vocabulary, an exact count and implicit area resolution.",
+    "note": "No exhaustive reference set. Null is abstention with unknown recall; it is not automatically correct."
+  },
+  {
+    "id": "stress-accessible-toilets",
+    "test_set": "stress",
+    "group": "attribute-filter",
+    "message": "Find wheelchair-accessible public toilets in Kyoto, Japan.",
+    "context_locations": [],
+    "evaluation": "review",
+    "requirements": "Each pin must be a public toilet in Kyoto with independent evidence of wheelchair accessibility. Generic toilets or a place named Kyoto are insufficient.",
+    "note": "No exhaustive reference set. Null is abstention with unknown recall; it is not automatically correct."
+  },
+  {
+    "id": "holdout-eagle",
+    "test_set": "holdout",
+    "message": "Can you locate The Eagle and Child pub in Oxford, UK?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The Eagle and Child",
+          "aliases": [
+            "The Eagle and Child",
+            "Eagle and Child",
+            "Eagle & Child"
+          ],
+          "lat": 51.7572,
+          "lng": -1.2603,
+          "source": "https://www.wikidata.org/wiki/Q82190",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "holdout-hagia",
+    "test_set": "holdout",
+    "message": "Hagia Sophia — Istanbul, Türkiye. Map it.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Hagia Sophia",
+          "aliases": [
+            "Hagia Sophia",
+            "Ayasofya",
+            "Ayasofya-i Kebir Cami-i Şerifi",
+            "Hagia Sophia Grand Mosque"
+          ],
+          "lat": 41.00833333333333,
+          "lng": 28.98,
+          "source": "https://www.wikidata.org/wiki/Q12506",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "holdout-petra",
+    "test_set": "holdout",
+    "message": "Petra in Jordan, whereabouts?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Petra",
+          "aliases": [
+            "Petra",
+            "Ancient Petra",
+            "البتراء"
+          ],
+          "lat": 30.328888888889,
+          "lng": 35.440277777778,
+          "source": "https://www.wikidata.org/wiki/Q5788",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "holdout-french-library",
+    "test_set": "holdout",
+    "message": "Où est la bibliothèque moderne Bibliotheca Alexandrina, en Égypte ?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Bibliotheca Alexandrina",
+          "aliases": [
+            "Bibliotheca Alexandrina",
+            "Library of Alexandria",
+            "Alexandria Library",
+            "مكتبة الإسكندرية"
+          ],
+          "lat": 31.208888888889,
+          "lng": 29.909166666667,
+          "source": "https://www.wikidata.org/wiki/Q501851",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "holdout-distance",
+    "test_set": "holdout",
+    "message": "What separates, distance-wise, the Louvre in Paris and the Sydney Opera House?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Sydney Opera House",
+          "lat": -33.857058,
+          "lng": 151.214897,
+          "source": "https://www.wikidata.org/wiki/Q45178",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Sydney Opera House"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "note": "Score endpoint pins, not a numeric distance answer."
+  },
+  {
+    "id": "holdout-route",
+    "test_set": "holdout",
+    "message": "Can you get me from 10 Downing Street in London to the Eiffel Tower in Paris?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "10 Downing Street",
+          "aliases": [
+            "10 Downing Street",
+            "10",
+            "Number 10"
+          ],
+          "lat": 51.50333333333333,
+          "lng": -0.1277777777777778,
+          "source": "https://www.wikidata.org/wiki/Q169101",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        },
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    },
+    "note": "Score endpoint pins, not route geometry."
+  },
+  {
+    "id": "holdout-cafe",
+    "test_set": "holdout",
+    "message": "Café de Flore, Paris—please pin that café, not Paris itself.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Café de Flore",
+          "aliases": [
+            "Café de Flore",
+            "Cafe de Flore"
+          ],
+          "lat": 48.853889,
+          "lng": 2.3325,
+          "source": "https://www.wikidata.org/wiki/Q1025686",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "holdout-negation",
+    "test_set": "holdout",
+    "message": "Not the Louvre—show the Eiffel Tower in Paris.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "holdout-coordinates",
+    "test_set": "holdout",
+    "message": "Put a marker at latitude 64.1466, longitude -21.9426.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "User-specified point",
+          "lat": 64.1466,
+          "lng": -21.9426,
+          "source": "User-supplied coordinates",
+          "tolerance_m": 25
+        }
+      ]
+    },
+    "evaluation": "coordinates"
+  },
+  {
+    "id": "holdout-implicit-area",
+    "test_set": "holdout",
+    "message": "Give two restaurants around here.",
+    "context_locations": [
+      "Yountville, California"
+    ],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 2,
+    "note": "Same independently verified venue pool as development; other returned venues require verification."
+  },
+  {
+    "id": "holdout-duplicate-context",
+    "test_set": "holdout",
+    "message": "Find three restaurants nearby.",
+    "context_locations": [
+      "Yountville, California",
+      "Yountville, California"
+    ],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 3,
+    "note": "Duplicate context entries identify one area, not ambiguity."
+  },
+  {
+    "id": "holdout-proofread",
+    "test_set": "holdout",
+    "message": "Proofread: 'Find two museums in Paris'.",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "holdout-translate",
+    "test_set": "holdout",
+    "message": "I don't want a map. Translate 'Eiffel Tower' into Spanish.",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "holdout-unknown-hotel",
+    "test_set": "holdout",
+    "message": "Which café is closest to my hotel?",
+    "context_locations": [
+      "Delft, Netherlands"
+    ],
+    "expected": null,
+    "note": "A city context does not locate an unknown hotel."
+  },
+  {
+    "id": "holdout-unnamed",
+    "test_set": "holdout",
+    "message": "Find the restaurant I mentioned earlier.",
+    "context_locations": [],
+    "expected": null,
+    "note": "No earlier conversation available to identify it."
+  },
+  {
+    "id": "holdout-novel",
+    "test_set": "holdout",
+    "message": "Recommend a good novel set in Timbuktu.",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-two-landmarks",
+    "test_set": "slots-validation",
+    "message": "Drop pins for the Atomium in Brussels and the Taj Mahal in Agra.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Atomium",
+          "aliases": [
+            "Atomium"
+          ],
+          "lat": 50.895,
+          "lng": 4.3413888888889,
+          "source": "https://www.wikidata.org/wiki/Q180901",
+          "tolerance_m": 250
+        },
+        {
+          "name": "Taj Mahal",
+          "aliases": [
+            "Taj Mahal",
+            "ताज महल"
+          ],
+          "lat": 27.175,
+          "lng": 78.04194444444444,
+          "source": "https://www.wikidata.org/wiki/Q9141",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-spanish",
+    "test_set": "slots-validation",
+    "message": "¿Dónde está la Sagrada Família de Barcelona?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Sagrada Família",
+          "aliases": [
+            "Sagrada Família",
+            "Sagrada Familia",
+            "Basílica de la Sagrada Família",
+            "Temple Expiatori de la Sagrada Família",
+            "Basilica and Expiatory Church of the Holy Family"
+          ],
+          "lat": 41.40369,
+          "lng": 2.17433,
+          "source": "https://www.wikidata.org/wiki/Q48435",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-white-house",
+    "test_set": "slots-validation",
+    "message": "The White House, Washington, DC: show its location.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "White House",
+          "aliases": [
+            "White House",
+            "The White House"
+          ],
+          "lat": 38.897777777777776,
+          "lng": -77.03666666666666,
+          "source": "https://www.wikidata.org/wiki/Q35525",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-named-business",
+    "test_set": "slots-validation",
+    "message": "The Fat Duck in Bray, please—on the map.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The Fat Duck",
+          "aliases": [
+            "The Fat Duck",
+            "Fat Duck"
+          ],
+          "lat": 51.50793,
+          "lng": -0.701764,
+          "source": "https://www.wikidata.org/wiki/Q2300919",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-mixed-question",
+    "test_set": "slots-validation",
+    "message": "Show the Louvre in Paris, and tell me who designed its pyramid.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-comparison",
+    "test_set": "slots-validation",
+    "message": "Which is farther from the Eiffel Tower: the Louvre or the Sydney Opera House? Put all three on the map.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Sydney Opera House",
+          "lat": -33.857058,
+          "lng": 151.214897,
+          "source": "https://www.wikidata.org/wiki/Q45178",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Sydney Opera House"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-count",
+    "test_set": "slots-validation",
+    "message": "Restaurants in Yountville: exactly two pins.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 2
+  },
+  {
+    "id": "slots-validation-coordinates",
+    "test_set": "slots-validation",
+    "message": "Mark these coordinates: -33.8568, 151.2153.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Coordinates",
+          "aliases": [
+            "Coordinates"
+          ],
+          "lat": -33.8568,
+          "lng": 151.2153,
+          "tolerance_m": 25,
+          "source": "Explicit numeric input"
+        }
+      ]
+    },
+    "evaluation": "coordinates"
+  },
+  {
+    "id": "slots-validation-override-context",
+    "test_set": "slots-validation",
+    "message": "Show Rotterdam on the map, ignoring the previously selected area.",
+    "context_locations": [
+      "Delft"
+    ],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Rotterdam",
+          "lat": 51.92,
+          "lng": 4.48,
+          "source": "https://www.wikidata.org/wiki/Q34370",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Rotterdam"
+          ],
+          "tolerance_m": 2000
+        }
+      ]
+    }
+  },
+  {
+    "id": "slots-validation-rewrite",
+    "test_set": "slots-validation",
+    "message": "Rewrite this politely: 'Locate the Taj Mahal in Agra.'",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-grammar",
+    "test_set": "slots-validation",
+    "message": "Is 'Where is Paris?' a grammatical English question?",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-explain",
+    "test_set": "slots-validation",
+    "message": "Explain the difference between latitude and longitude using Paris as an example. Do not draw a map.",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-unknown-position",
+    "test_set": "slots-validation",
+    "message": "Find a pharmacy within walking distance of my current position.",
+    "context_locations": [
+      "Delft"
+    ],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-missing-reference",
+    "test_set": "slots-validation",
+    "message": "Show me the place we agreed on earlier.",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-numbers-not-coordinates",
+    "test_set": "slots-validation",
+    "message": "Plot 2 cafe options and 3 museums near my hotel.",
+    "context_locations": [
+      "Paris"
+    ],
+    "expected": null
+  },
+  {
+    "id": "slots-validation-negation",
+    "test_set": "slots-validation",
+    "message": "A map of the Louvre in Paris, please; not the Eiffel Tower.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-brandenburg",
+    "test_set": "mentions-validation",
+    "message": "Can you map the Brandenburg Gate in Berlin?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Brandenburg Gate",
+          "aliases": [
+            "Brandenburg Gate",
+            "Brandenburger Tor"
+          ],
+          "lat": 52.516272222222,
+          "lng": 13.377722222222,
+          "source": "https://www.wikidata.org/wiki/Q82425",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-golden-gate",
+    "test_set": "mentions-validation",
+    "message": "Show the Golden Gate Bridge in San Francisco.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Golden Gate Bridge",
+          "aliases": [
+            "Golden Gate Bridge"
+          ],
+          "lat": 37.819722222222,
+          "lng": -122.47861111111,
+          "source": "https://www.wikidata.org/wiki/Q44440",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-exclude-category",
+    "test_set": "mentions-validation",
+    "message": "Find the Sydney Opera House, but not any restaurants near it.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Sydney Opera House",
+          "lat": -33.857058,
+          "lng": 151.214897,
+          "source": "https://www.wikidata.org/wiki/Q45178",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Sydney Opera House"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-distance",
+    "test_set": "mentions-validation",
+    "message": "How far apart are the Taj Mahal in Agra and the White House in Washington DC? Show both.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Taj Mahal",
+          "aliases": [
+            "Taj Mahal",
+            "ताज महल"
+          ],
+          "lat": 27.175,
+          "lng": 78.04194444444444,
+          "source": "https://www.wikidata.org/wiki/Q9141",
+          "tolerance_m": 250
+        },
+        {
+          "name": "White House",
+          "aliases": [
+            "White House",
+            "The White House"
+          ],
+          "lat": 38.897777777777776,
+          "lng": -77.03666666666666,
+          "source": "https://www.wikidata.org/wiki/Q35525",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-mixed",
+    "test_set": "mentions-validation",
+    "message": "Mark 10 Downing Street in London; I also want a short history.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "10 Downing Street",
+          "aliases": [
+            "10 Downing Street",
+            "10",
+            "Number 10"
+          ],
+          "lat": 51.50333333333333,
+          "lng": -0.1277777777777778,
+          "source": "https://www.wikidata.org/wiki/Q169101",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-implicit",
+    "test_set": "mentions-validation",
+    "message": "Two restaurants, please.",
+    "context_locations": [
+      "Yountville"
+    ],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 2
+  },
+  {
+    "id": "mentions-validation-coordinates",
+    "test_set": "mentions-validation",
+    "message": "Return the coordinates 37.8199, -122.4783 as one pin.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Coordinates",
+          "aliases": [
+            "Coordinates"
+          ],
+          "lat": 37.8199,
+          "lng": -122.4783,
+          "tolerance_m": 25,
+          "source": "Explicit input"
+        }
+      ]
+    },
+    "evaluation": "coordinates"
+  },
+  {
+    "id": "mentions-validation-negation",
+    "test_set": "mentions-validation",
+    "message": "Show the Eiffel Tower in Paris instead of the White House.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "mentions-validation-translate",
+    "test_set": "mentions-validation",
+    "message": "Translate to French: 'Show the Golden Gate Bridge in San Francisco.'",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "mentions-validation-grammar",
+    "test_set": "mentions-validation",
+    "message": "Does the phrase 'restaurants in Delft' sound natural?",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "mentions-validation-unknown-office",
+    "test_set": "mentions-validation",
+    "message": "Find an open restaurant near the office I work at.",
+    "context_locations": [
+      "London"
+    ],
+    "expected": null
+  },
+  {
+    "id": "mentions-validation-unknown-position",
+    "test_set": "mentions-validation",
+    "message": "Which pharmacy is closest to where I'm standing?",
+    "context_locations": [
+      "Paris"
+    ],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-christ",
+    "test_set": "fewshot-validation",
+    "message": "Please put Christ the Redeemer in Rio de Janeiro on the map.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Christ the Redeemer",
+          "aliases": [
+            "Christ the Redeemer",
+            "Cristo Redentor"
+          ],
+          "lat": -22.951915648887244,
+          "lng": -43.21046412278801,
+          "source": "https://www.wikidata.org/wiki/Q79961",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "fewshot-validation-space-needle",
+    "test_set": "fewshot-validation",
+    "message": "Could you locate the Space Needle in Seattle and give its height?",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Space Needle",
+          "aliases": [
+            "Space Needle"
+          ],
+          "lat": 47.6204,
+          "lng": -122.3491,
+          "source": "https://www.wikidata.org/wiki/Q5317",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "fewshot-validation-punctuation",
+    "test_set": "fewshot-validation",
+    "message": "Please correct the punctuation of this sentence: 'Locate Christ the Redeemer in Rio de Janeiro'.",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-indirect-translation",
+    "test_set": "fewshot-validation",
+    "message": "In Spanish, how would I ask someone to locate the Space Needle in Seattle?",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-category",
+    "test_set": "fewshot-validation",
+    "message": "Choose two restaurants within Yountville.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "The French Laundry",
+          "lat": 38.4044403,
+          "lng": -122.3649712,
+          "source": "https://www.wikidata.org/wiki/Q2364717",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "The French Laundry"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bistro Jeanty",
+          "lat": 38.401082,
+          "lng": -122.359792,
+          "source": "https://www.wikidata.org/wiki/Q61655112",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Bistro Jeanty"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Bouchon",
+          "aliases": [
+            "Bouchon",
+            "Bouchon Bistro"
+          ],
+          "lat": 38.402645,
+          "lng": -122.361905,
+          "source": "https://www.wikidata.org/wiki/Q15991439",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/uploads/BYV-PDR-Brochure_7.21.2025.pdf"
+        },
+        {
+          "name": "Ad Hoc",
+          "aliases": [
+            "Ad Hoc"
+          ],
+          "lat": 38.39921,
+          "lng": -122.35857,
+          "source": "https://www.wikidata.org/wiki/Q4678154",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250,
+          "identity_source": "https://thomaskeller.com/yountville-california/ad-hoc/info-directions/"
+        }
+      ]
+    },
+    "expected_count": 2
+  },
+  {
+    "id": "fewshot-validation-unknown-apartment",
+    "test_set": "fewshot-validation",
+    "message": "Choose two restaurants close to the apartment I rented.",
+    "context_locations": [
+      "Yountville"
+    ],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-multiple-and-facts",
+    "test_set": "fewshot-validation",
+    "message": "Put the Eiffel Tower and the Louvre on a map of Paris, and give their opening times.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Eiffel Tower",
+          "lat": 48.858296,
+          "lng": 2.294479,
+          "source": "https://www.wikidata.org/wiki/Q243",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Eiffel Tower"
+          ],
+          "tolerance_m": 250
+        },
+        {
+          "name": "Louvre",
+          "lat": 48.861111111111114,
+          "lng": 2.3358333333333334,
+          "source": "https://www.wikidata.org/wiki/Q19675",
+          "reference_fetched": "2026-11-03",
+          "aliases": [
+            "Louvre",
+            "Louvre Museum"
+          ],
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "fewshot-validation-unknown-origin",
+    "test_set": "fewshot-validation",
+    "message": "Show a route between my starting point and the Louvre in Paris.",
+    "context_locations": [
+      "Paris"
+    ],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-text-classification",
+    "test_set": "fewshot-validation",
+    "message": "Could you label the following sentence as a question or command: 'Where is Delft?'",
+    "context_locations": [],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-override",
+    "test_set": "fewshot-validation",
+    "message": "The earlier mention was wrong: map Bibliotheca Alexandrina in Egypt.",
+    "context_locations": [
+      "Delft"
+    ],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Bibliotheca Alexandrina",
+          "aliases": [
+            "Bibliotheca Alexandrina",
+            "Library of Alexandria",
+            "Alexandria Library",
+            "مكتبة الإسكندرية"
+          ],
+          "lat": 31.208888888889,
+          "lng": 29.909166666667,
+          "source": "https://www.wikidata.org/wiki/Q501851",
+          "reference_fetched": "2026-11-03",
+          "tolerance_m": 250
+        }
+      ]
+    }
+  },
+  {
+    "id": "fewshot-validation-coordinates",
+    "test_set": "fewshot-validation",
+    "message": "Pin latitude 59.3293 and longitude 18.0686.",
+    "context_locations": [],
+    "expected": {
+      "visualization": "map",
+      "locations": [
+        {
+          "name": "Coordinates",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "aliases": [
+            "Coordinates"
+          ],
+          "tolerance_m": 25,
+          "source": "Explicit input"
+        }
+      ]
+    },
+    "evaluation": "coordinates"
+  },
+  {
+    "id": "fewshot-validation-unknown-history",
+    "test_set": "fewshot-validation",
+    "message": "Mark the restaurant we discussed yesterday.",
+    "context_locations": [
+      "Paris"
+    ],
+    "expected": null
+  },
+  {
+    "id": "fewshot-validation-accessibility",
+    "test_set": "fewshot-validation",
+    "message": "Only show the Space Needle in Seattle if it is wheelchair-accessible.",
+    "context_locations": [],
+    "expected": null,
+    "evaluation": "review",
+    "requirements": "A returned pin requires independent evidence of wheelchair accessibility. Null is abstention, not a verified absence."
+  },
+  {
+    "id": "fewshot-validation-diet",
+    "test_set": "fewshot-validation",
+    "message": "Find gluten-free cafes in Seattle.",
+    "context_locations": [],
+    "expected": null,
+    "evaluation": "review",
+    "requirements": "Returned venues require independent evidence of gluten-free offerings. Generic cafes do not establish this; null is not a scored success."
+  }
+]
