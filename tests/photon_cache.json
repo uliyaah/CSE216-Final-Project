@@ -1,0 +1,6698 @@
+{
+  "{\"limit\": 1, \"q\": \"Paris, France\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 71525,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "countrycode": "FR",
+        "extra": {
+          "admin_level": "6"
+        },
+        "extent": [
+          2.224122,
+          48.902156,
+          2.4697602,
+          48.8155755
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3483915,
+          48.8534951
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Delft, Netherlands\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 271202,
+        "osm_key": "boundary",
+        "osm_value": "administrative",
+        "type": "other",
+        "name": "Delft",
+        "city": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extra": {
+          "admin_level": "10"
+        },
+        "extent": [
+          4.3202178,
+          52.0325988,
+          4.4079109,
+          51.9663163
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3627245,
+          51.9994572
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Eiffel Tower, Paris, France\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 5013364,
+        "osm_key": "man_made",
+        "osm_value": "tower",
+        "type": "house",
+        "housenumber": "5",
+        "name": "Eiffel Tower",
+        "street": "Avenue Anatole France",
+        "locality": "Gros-Caillou",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75007",
+        "countrycode": "FR",
+        "extent": [
+          2.2933119,
+          48.8590453,
+          2.2956897,
+          48.8574753
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2945006,
+          48.8582599
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Eiffel Tower Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 5013364,
+        "osm_key": "man_made",
+        "osm_value": "tower",
+        "type": "house",
+        "housenumber": "5",
+        "name": "Eiffel Tower",
+        "street": "Avenue Anatole France",
+        "locality": "Gros-Caillou",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75007",
+        "countrycode": "FR",
+        "extent": [
+          2.2933119,
+          48.8590453,
+          2.2956897,
+          48.8574753
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2945006,
+          48.8582599
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sydney Opera House, Sydney, Australia\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 9596872,
+        "osm_key": "amenity",
+        "osm_value": "arts_centre",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Sydney Opera House",
+        "street": "Macquarie Street",
+        "locality": "Quay Quarter",
+        "district": "Sydney",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": "2000",
+        "countrycode": "AU",
+        "extent": [
+          151.214428,
+          -33.856305,
+          151.2158894,
+          -33.8579291
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151234,
+          -33.857198
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sydney Opera House\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 9596872,
+        "osm_key": "amenity",
+        "osm_value": "arts_centre",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Sydney Opera House",
+        "street": "Macquarie Street",
+        "locality": "Quay Quarter",
+        "district": "Sydney",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": "2000",
+        "countrycode": "AU",
+        "extent": [
+          151.214428,
+          -33.856305,
+          151.2158894,
+          -33.8579291
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151234,
+          -33.857198
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The French Laundry Yountville, California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Katz's Delicatessen East Houston Street New York City\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1915398676,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "205",
+        "name": "Katz's Delicatessen",
+        "street": "East Houston Street",
+        "locality": "Manhattan Community Board 3",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10002",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987353,
+          40.7223431
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Eiffel Tower\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 5013364,
+        "osm_key": "man_made",
+        "osm_value": "tower",
+        "type": "house",
+        "housenumber": "5",
+        "name": "Eiffel Tower",
+        "street": "Avenue Anatole France",
+        "locality": "Gros-Caillou",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75007",
+        "countrycode": "FR",
+        "extent": [
+          2.2933119,
+          48.8590453,
+          2.2956897,
+          48.8574753
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2945006,
+          48.8582599
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sydney Opera House Sydney\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 9596872,
+        "osm_key": "amenity",
+        "osm_value": "arts_centre",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Sydney Opera House",
+        "street": "Macquarie Street",
+        "locality": "Quay Quarter",
+        "district": "Sydney",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": "2000",
+        "countrycode": "AU",
+        "extent": [
+          151.214428,
+          -33.856305,
+          151.2158894,
+          -33.8579291
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151234,
+          -33.857198
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Rotterdam, Netherlands\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1411101,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Rotterdam",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extra": {
+          "admin_level": "10"
+        },
+        "extent": [
+          4.3793095,
+          51.9942735,
+          4.6018092,
+          51.8616672
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47775,
+          51.9244424
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Cambridge, Massachusetts, United States\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1933745,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Cambridge",
+        "county": "Middlesex",
+        "state": "Massachusetts",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -71.1603989,
+          42.4042593,
+          -71.0639844,
+          42.3524025
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1040018,
+          42.3656347
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Cambridge Massachusetts United States\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1933745,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Cambridge",
+        "county": "Middlesex",
+        "state": "Massachusetts",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -71.1603989,
+          42.4042593,
+          -71.0639844,
+          42.3524025
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1040018,
+          42.3656347
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre Museum Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bistro Jeanty, Yountville, California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"near me\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 13004244540,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Near Me Vela Branca",
+        "street": "Rua dos Correeiros",
+        "district": "Baixa",
+        "city": "Lisbon",
+        "county": "Lisbon",
+        "country": "Portugal",
+        "postcode": "1100-050",
+        "countrycode": "PT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1374474,
+          38.7113386
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Zorblax's Cosmic Noodles Delft, Netherlands\"}": [],
+  "{\"limit\": 1, \"q\": \"Zorblax's Cosmic Noodles Delft Netherlands\"}": [],
+  "{\"limit\": 1, \"q\": \"Statue of Liberty New York\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 32965412,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Statue of Liberty",
+        "street": "Flagpole Plaza",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10004",
+        "countrycode": "US",
+        "extent": [
+          -74.0451069,
+          40.6896741,
+          -74.0439637,
+          40.6888049
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0445482,
+          40.6892532
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Statue of Liberty, New York\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 32965412,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Statue of Liberty",
+        "street": "Flagpole Plaza",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10004",
+        "countrycode": "US",
+        "extent": [
+          -74.0451069,
+          40.6896741,
+          -74.0439637,
+          40.6888049
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0445482,
+          40.6892532
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Tokyo, Japan\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1543125,
+        "osm_key": "place",
+        "osm_value": "province",
+        "type": "city",
+        "name": "Tokyo",
+        "country": "Japan",
+        "countrycode": "JP",
+        "extra": {
+          "admin_level": "4"
+        },
+        "extent": [
+          135.8536855,
+          35.8984245,
+          154.205541,
+          20.2145811
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7638947,
+          35.6768601
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Yountville, California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 10095277,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "name": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -122.386985,
+          38.413392,
+          -122.350245,
+          38.37988
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359506,
+          38.4022008
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-122.386985,38.37988,-122.350245,38.413392\", \"include\": \"osm.amenity.restaurant\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 9918258817,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "6476",
+        "name": "ad hoc",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3587281,
+          38.3992249
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"nearby\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 550381057,
+        "osm_key": "shop",
+        "osm_value": "convenience",
+        "type": "house",
+        "name": "Nearby",
+        "street": "Main Street",
+        "district": "Malahide East DED 1986",
+        "city": "Malahide",
+        "county": "County Dublin",
+        "country": "Ireland",
+        "postcode": "K36 VY57",
+        "countrycode": "IE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1540022,
+          53.4507706
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"restaurant\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 8753603917,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Restaurant",
+        "street": "Avenida",
+        "district": "Cándido González",
+        "city": "Santa Cruz del Sur",
+        "state": "Camagüey",
+        "country": "Cuba",
+        "countrycode": "CU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0215805,
+          20.8124582
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Fat Duck Bray England\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 60491186,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The Fat Duck",
+        "street": "High Street",
+        "district": "Bray Wick",
+        "city": "Bray",
+        "county": "Royal Borough of Windsor and Maidenhead",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SL6 2AQ",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7017133,
+          51.5079166
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Central restaurant Lima\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 6016402088,
+        "osm_key": "tourism",
+        "osm_value": "motel",
+        "type": "house",
+        "name": "Hospedaje y Restaurant “El Engreido”",
+        "street": "Carretera Central",
+        "district": "Los Pinos",
+        "city": "Chicla",
+        "county": "Province of Huarochirí",
+        "state": "Department of Lima",
+        "country": "Peru",
+        "countrycode": "PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2682336,
+          -11.7038929
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Central Lima\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4207978089,
+        "osm_key": "amenity",
+        "osm_value": "bank",
+        "type": "house",
+        "housenumber": "441",
+        "name": "Banco Central de Reserva del Perú",
+        "street": "Santa Rosa Street",
+        "locality": "Cercado de Lima",
+        "district": "Lima",
+        "city": "Lima",
+        "county": "Province of Lima",
+        "state": "Department of Lima",
+        "country": "Peru",
+        "postcode": "15001",
+        "countrycode": "PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0291376,
+          -12.0499601
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Truth Coffee Roasting Cape Town\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 3733793199,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Truth Coffee Roasting",
+        "street": "Buitenkant Street",
+        "district": "City Centre",
+        "city": "Cape Town",
+        "county": "City of Cape Town",
+        "state": "Western Cape",
+        "country": "South Africa",
+        "postcode": "7925",
+        "countrycode": "ZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4227333,
+          -33.9282267
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Caf\\u00e9 de Flore Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 251699776,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Café de Flore",
+        "street": "Rue Saint-Benoît",
+        "locality": "Saint-Germain-des-Prés",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75006",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3326307,
+          48.8541444
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Mus\\u00e9e national du Cameroun Yaound\\u00e9\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 188279621,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Musée National",
+        "street": "Rue 3.038",
+        "district": "Centre Administratif",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "extent": [
+          11.5152212,
+          3.8607669,
+          11.5159021,
+          3.8601722
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5156224,
+          3.8604676
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Mus\\u00e9e national du Cameroun\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 188279621,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Musée National",
+        "street": "Rue 3.038",
+        "district": "Centre Administratif",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "extent": [
+          11.5152212,
+          3.8607669,
+          11.5159021,
+          3.8601722
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5156224,
+          3.8604676
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Aoraki / Mount Cook\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2625064349,
+        "osm_key": "natural",
+        "osm_value": "peak",
+        "type": "other",
+        "name": "Aoraki / Mount Cook",
+        "county": "Mackenzie District",
+        "state": "Canterbury",
+        "country": "New Zealand",
+        "countrycode": "NZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1421677,
+          -43.5950017
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Aoraki Mount Cook, New Zealand\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2625064349,
+        "osm_key": "natural",
+        "osm_value": "peak",
+        "type": "other",
+        "name": "Aoraki / Mount Cook",
+        "county": "Mackenzie District",
+        "state": "Canterbury",
+        "country": "New Zealand",
+        "countrycode": "NZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1421677,
+          -43.5950017
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Timbuktu, Mali\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 89381749,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Timbuktu",
+        "state": "Timbuktu",
+        "country": "Mali",
+        "countrycode": "ML"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0087272,
+          16.7719091
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Timbuktu Mali\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 89381749,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Timbuktu",
+        "state": "Timbuktu",
+        "country": "Mali",
+        "countrycode": "ML"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0087272,
+          16.7719091
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bibliotheca Alexandrina, Alexandria, Egypt\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 28825451,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "name": "Bibliotheca Alexandrina",
+        "street": "Al Zarkshy Street",
+        "district": "Shatby",
+        "city": "Alexandria",
+        "state": "Alexandria",
+        "country": "Egypt",
+        "postcode": "21526",
+        "countrycode": "EG",
+        "extent": [
+          29.9075652,
+          31.2096409,
+          29.9103465,
+          31.2076873
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9089329,
+          31.2086605
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"10 Downing Street, London\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1879842,
+        "osm_key": "office",
+        "osm_value": "government",
+        "type": "house",
+        "housenumber": "10",
+        "name": "10 Downing Street",
+        "street": "Downing Street",
+        "locality": "Westminster",
+        "district": "Covent Garden",
+        "city": "Westminster",
+        "county": "Greater London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SW1A 2AA",
+        "countrycode": "GB",
+        "extent": [
+          -0.1277991,
+          51.5036913,
+          -0.1273088,
+          51.5033074
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276965,
+          51.5034878
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"-33.8568,151.2153\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 14095875123,
+        "osm_key": "historic",
+        "osm_value": "vehicle",
+        "type": "house",
+        "housenumber": "2-1-33",
+        "name": "1955 Chevrolet 150",
+        "street": "Brighton Way",
+        "locality": "Universal Studios Japan",
+        "district": "Konohana Ward",
+        "city": "Osaka",
+        "state": "Osaka Prefecture",
+        "country": "Japan",
+        "postcode": "554-0031",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4333147,
+          34.6658015
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bibliotheca Alexandrina Egypt\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 28825451,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "name": "Bibliotheca Alexandrina",
+        "street": "Al Zarkshy Street",
+        "district": "Shatby",
+        "city": "Alexandria",
+        "state": "Alexandria",
+        "country": "Egypt",
+        "postcode": "21526",
+        "countrycode": "EG",
+        "extent": [
+          29.9075652,
+          31.2096409,
+          29.9103465,
+          31.2076873
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9089329,
+          31.2086605
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bibliotheca Alexandrina, Egypt\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 28825451,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "name": "Bibliotheca Alexandrina",
+        "street": "Al Zarkshy Street",
+        "district": "Shatby",
+        "city": "Alexandria",
+        "state": "Alexandria",
+        "country": "Egypt",
+        "postcode": "21526",
+        "countrycode": "EG",
+        "extent": [
+          29.9075652,
+          31.2096409,
+          29.9103465,
+          31.2076873
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9089329,
+          31.2086605
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre Museum, Paris, France\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Timbuktu\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 89381749,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Timbuktu",
+        "state": "Timbuktu",
+        "country": "Mali",
+        "countrycode": "ML"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0087272,
+          16.7719091
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"apothecary\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 13731188049,
+        "osm_key": "place",
+        "osm_value": "suburb",
+        "type": "district",
+        "name": "Apothecary",
+        "city": "São João Batista",
+        "state": "Maranhão",
+        "country": "Brazil",
+        "postcode": "65225-000",
+        "countrycode": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8594924,
+          -3.0108831
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"jambalaya food\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 6186274020,
+        "osm_key": "amenity",
+        "osm_value": "fast_food",
+        "type": "house",
+        "name": "Jabalya Fast Food",
+        "street": "Grillparzerstraße",
+        "locality": "Pyrkershöhe",
+        "district": "Badberg",
+        "city": "Bad Gastein",
+        "state": "Salzburg",
+        "country": "Austria",
+        "postcode": "5640",
+        "countrycode": "AT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1327626,
+          47.1126305
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Cameroon\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 192830,
+        "osm_key": "place",
+        "osm_value": "country",
+        "type": "country",
+        "name": "Cameroon",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "extra": {
+          "admin_level": "2"
+        },
+        "extent": [
+          8.3822176,
+          13.083333,
+          16.1911011,
+          1.6517945
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1535811,
+          4.6125522
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"8.3822176,1.6517945,16.1911011,13.083333\", \"include\": \"osm.cuisine.jambalaya\", \"limit\": 3}": [],
+  "{\"limit\": 1, \"q\": \"victuals Delft\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 131362606,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "Rua Pioneira Victalina Delfante Castanha",
+        "district": "Jardim Itália",
+        "city": "Maringá",
+        "state": "Paraná",
+        "country": "Brazil",
+        "postcode": "87060-400",
+        "countrycode": "BR",
+        "extent": [
+          -51.9480782,
+          -23.4515266,
+          -51.9433703,
+          -23.4519268
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9457246,
+          -23.4517204
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"victuals Rotterdam\"}": [],
+  "{\"bbox\": \"-51.9480782,-23.4519268,-51.9433703,-23.4515266\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [],
+  "{\"bbox\": \"4.3202178,51.9663163,4.4079109,52.0325988\", \"include\": \"osm.amenity.apothecary\", \"limit\": 2}": [],
+  "{\"limit\": 1, \"q\": \"Kyoto, Japan\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 357794,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Kyoto",
+        "state": "Kyoto Prefecture",
+        "country": "Japan",
+        "countrycode": "JP",
+        "extra": {
+          "admin_level": "7"
+        },
+        "extent": [
+          135.559006,
+          35.3212207,
+          135.878442,
+          34.874916
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681441,
+          35.0115754
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"135.559006,34.874916,135.878442,35.3212207\", \"include\": \"osm.amenity.toilet\", \"limit\": 3}": [],
+  "{\"limit\": 1, \"q\": \"Delft\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 324269,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          4.3202178,
+          52.0325988,
+          4.4079109,
+          51.9663163
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35839,
+          52.0114017
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sydney Opera House Sydney Australia\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 9596872,
+        "osm_key": "amenity",
+        "osm_value": "arts_centre",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Sydney Opera House",
+        "street": "Macquarie Street",
+        "locality": "Quay Quarter",
+        "district": "Sydney",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": "2000",
+        "countrycode": "AU",
+        "extent": [
+          151.214428,
+          -33.856305,
+          151.2158894,
+          -33.8579291
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151234,
+          -33.857198
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"me\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 114686,
+        "osm_key": "place",
+        "osm_value": "country",
+        "type": "country",
+        "name": "Mexico",
+        "country": "Mexico",
+        "countrycode": "MX",
+        "extra": {
+          "admin_level": "2"
+        },
+        "extent": [
+          -118.599188,
+          32.7187133,
+          -86.493266,
+          14.3811832
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0077097,
+          23.6585116
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-118.599188,14.3811832,-86.493266,32.7187133\", \"include\": \"osm.amenity.restaurant\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1552101207,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "848",
+        "name": "Kentucky Fried Chicken Balbuena",
+        "street": "Fray Servando Teresa de Mier",
+        "locality": "Colonia Kennedy",
+        "district": "Venustiano Carranza",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "15950",
+        "countrycode": "MX",
+        "extent": [
+          -99.1065903,
+          19.4190454,
+          -99.1064081,
+          19.4187678
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.106509,
+          19.4188745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1540183902,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "940",
+        "name": "Pizza Hut",
+        "street": "Fray Servando Teresa de Mier",
+        "locality": "Colonia Kennedy",
+        "district": "Venustiano Carranza",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "15950",
+        "countrycode": "MX",
+        "extent": [
+          -99.1033719,
+          19.4180958,
+          -99.1032645,
+          19.4179533
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1033236,
+          19.4180099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1540183655,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Little Caesars",
+        "street": "Fray Servando Teresa de Mier",
+        "locality": "Colonia Kennedy",
+        "district": "Venustiano Carranza",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "15950",
+        "countrycode": "MX",
+        "extent": [
+          -99.1059231,
+          19.4188114,
+          -99.1057677,
+          19.4185987
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1058394,
+          19.4187269
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Zorblax's Cosmic Noodles\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 5677541,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "East Nogales Road",
+        "locality": "Santo Tomas",
+        "city": "Scottsdale",
+        "county": "Maricopa",
+        "state": "Arizona",
+        "country": "United States",
+        "postcode": "85250",
+        "countrycode": "US",
+        "extent": [
+          -111.9155061,
+          33.544137,
+          -111.9154927,
+          33.5433423
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9154993,
+          33.5437396
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-111.9155061,33.5433423,-111.9154927,33.544137\", \"include\": \"osm.amenity.cafe\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"Aoraki Mount Cook\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 772249052,
+        "osm_key": "aeroway",
+        "osm_value": "hangar",
+        "type": "house",
+        "name": "Aoraki Mount Cook Aviation Services",
+        "street": "De Havilland Drive",
+        "city": "Twizel",
+        "county": "Mackenzie District",
+        "state": "Canterbury",
+        "country": "New Zealand",
+        "postcode": "5744",
+        "countrycode": "NZ",
+        "extent": [
+          170.1179048,
+          -44.2412884,
+          170.1181357,
+          -44.2414621
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1180203,
+          -44.2413752
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"10 Downing Street\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1879842,
+        "osm_key": "office",
+        "osm_value": "government",
+        "type": "house",
+        "housenumber": "10",
+        "name": "10 Downing Street",
+        "street": "Downing Street",
+        "locality": "Westminster",
+        "district": "Covent Garden",
+        "city": "Westminster",
+        "county": "Greater London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SW1A 2AA",
+        "countrycode": "GB",
+        "extent": [
+          -0.1277991,
+          51.5036913,
+          -0.1273088,
+          51.5033074
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276965,
+          51.5034878
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre Paris France\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre, Paris, France\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-118.599188,14.3811832,-86.493266,32.7187133\", \"include\": \"osm.amenity.pharmacy\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 10043533244,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "name": "Farmacia Gil",
+        "street": "Calle Progreso Nacional",
+        "locality": "Colonia Progreso Nacional",
+        "district": "Gustavo A. Madero",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "07600",
+        "countrycode": "MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1567745,
+          19.5183103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 10254604511,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "name": "San Nicolás",
+        "street": "Calzada Ticomán",
+        "locality": "Colonia La Escalera",
+        "district": "Gustavo A. Madero",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "07320",
+        "countrycode": "MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1335163,
+          19.5115069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 10277129529,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "name": "Benavides",
+        "street": "Calzada Vallejo",
+        "locality": "Colonia Condumódulos",
+        "district": "Gustavo A. Madero",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "07710",
+        "countrycode": "MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1569485,
+          19.5034453
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"jambalaya in Cameroon\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1575086660,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Jambalaya",
+        "street": "Maharana Pratap Road",
+        "district": "Race Course",
+        "city": "Mysuru",
+        "county": "Mysuru taluk",
+        "state": "Karnataka",
+        "country": "India",
+        "postcode": "570001",
+        "countrycode": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6733827,
+          12.2877653
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"8.3822176,1.6517945,16.1911011,13.083333\", \"include\": \"osm.amenity.restaurant\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 7218924287,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Restaurant Zili Vip",
+        "street": "Rue 5.626",
+        "district": "Ngousso",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5389892,
+          3.9179265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1116281761,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Le Safoutier",
+        "street": "Boulevard du 20 Mai",
+        "district": "Centre Administratif",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5160613,
+          3.8641972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 6339415793,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bonnes",
+        "street": "Rue 1.973",
+        "district": "Bastos",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5124984,
+          3.8842289
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Victuals Delft\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 131362606,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "Rua Pioneira Victalina Delfante Castanha",
+        "district": "Jardim Itália",
+        "city": "Maringá",
+        "state": "Paraná",
+        "country": "Brazil",
+        "postcode": "87060-400",
+        "countrycode": "BR",
+        "extent": [
+          -51.9480782,
+          -23.4515266,
+          -51.9433703,
+          -23.4519268
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9457246,
+          -23.4517204
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Victuals Rotterdam\"}": [],
+  "{\"limit\": 1, \"q\": \"Delft and Rotterdam\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1302564056,
+        "osm_key": "landuse",
+        "osm_value": "construction",
+        "type": "other",
+        "name": "PHS Rijswijk - Rotterdam",
+        "locality": "Voorhof",
+        "city": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extent": [
+          4.3629313,
+          51.9926957,
+          4.3643324,
+          51.991163
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.363481,
+          51.9919348
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"4.3629313,51.991163,4.3643324,51.9926957\", \"include\": \"osm.amenity.restaurant\", \"limit\": 3}": [],
+  "{\"bbox\": \"4.3202178,51.9663163,4.4079109,52.0325988\", \"include\": \"osm.amenity.pharmacy\", \"limit\": 2}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2599750145,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "housenumber": "137",
+        "name": "Apotheek de Bras",
+        "street": "Oeverwallaan",
+        "locality": "De Bras",
+        "district": "Leidschenveen-Ypenburg",
+        "city": "The Hague",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "postcode": "2498 BW",
+        "countrycode": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3847749,
+          52.0323434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2599514291,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "housenumber": "6",
+        "name": "Hof van Delft Apotheek",
+        "street": "Phoenixstraat",
+        "locality": "City Centre",
+        "city": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "postcode": "2611 AL",
+        "countrycode": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3555324,
+          52.0100064
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"135.559006,34.874916,135.878442,35.3212207\", \"include\": \"osm.amenity.toilets\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 242496461,
+        "osm_key": "amenity",
+        "osm_value": "toilets",
+        "type": "house",
+        "name": "公衆トイレ",
+        "street": "京都産業大学 散策路",
+        "locality": "Kamigamo-Shimojinbaracho",
+        "district": "Kita Ward",
+        "city": "Kyoto",
+        "state": "Kyoto Prefecture",
+        "country": "Japan",
+        "postcode": "606-0004",
+        "countrycode": "JP",
+        "extent": [
+          135.7569253,
+          35.0715127,
+          135.7569784,
+          35.0714695
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7569518,
+          35.071489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 6124570084,
+        "osm_key": "amenity",
+        "osm_value": "toilets",
+        "type": "house",
+        "name": "観光トイレ",
+        "street": "魚山橋",
+        "locality": "Ōhara",
+        "district": "Sakyō Ward",
+        "city": "Kyoto",
+        "state": "Kyoto Prefecture",
+        "country": "Japan",
+        "postcode": "601-1242",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8333945,
+          35.1188522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4426062216,
+        "osm_key": "amenity",
+        "osm_value": "toilets",
+        "type": "house",
+        "name": "福祉トイレ",
+        "street": "吉田神社南参道",
+        "locality": "Yoshida-Kamiojicho",
+        "district": "Sakyō Ward",
+        "city": "Kyoto",
+        "state": "Kyoto Prefecture",
+        "country": "Japan",
+        "postcode": "606-8314",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7859816,
+          35.024361
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Eiffel Tower, Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 5013364,
+        "osm_key": "man_made",
+        "osm_value": "tower",
+        "type": "house",
+        "housenumber": "5",
+        "name": "Eiffel Tower",
+        "street": "Avenue Anatole France",
+        "locality": "Gros-Caillou",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75007",
+        "countrycode": "FR",
+        "extent": [
+          2.2933119,
+          48.8590453,
+          2.2956897,
+          48.8574753
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2945006,
+          48.8582599
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The French Laundry\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The French Laundry, Yountville, California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"East Houston Street, New York City\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1915398676,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "205",
+        "name": "Katz's Delicatessen",
+        "street": "East Houston Street",
+        "locality": "Manhattan Community Board 3",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10002",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987353,
+          40.7223431
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre Museum, Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bistro Jeanty Yountville California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-122.3621195,38.4025001,-122.3617765,38.4026969\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Zorblax's Cosmic Noodles, Delft, Netherlands\"}": [],
+  "{\"limit\": 1, \"q\": \"Statue of Liberty\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 32965412,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Statue of Liberty",
+        "street": "Flagpole Plaza",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10004",
+        "countrycode": "US",
+        "extent": [
+          -74.0451069,
+          40.6896741,
+          -74.0439637,
+          40.6888049
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0445482,
+          40.6892532
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Fat Duck, Bray, England\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 60491186,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The Fat Duck",
+        "street": "High Street",
+        "district": "Bray Wick",
+        "city": "Bray",
+        "county": "Royal Borough of Windsor and Maidenhead",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SL6 2AQ",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7017133,
+          51.5079166
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"11.5152212,3.8601722,11.5159021,3.8607669\", \"include\": \"osm.tourism.museum\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 188279621,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Musée National",
+        "street": "Rue 3.038",
+        "district": "Centre Administratif",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "extent": [
+          11.5152212,
+          3.8607669,
+          11.5159021,
+          3.8601722
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5156224,
+          3.8604676
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Aoraki / Mount Cook, New Zealand\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2625064349,
+        "osm_key": "natural",
+        "osm_value": "peak",
+        "type": "other",
+        "name": "Aoraki / Mount Cook",
+        "county": "Mackenzie District",
+        "state": "Canterbury",
+        "country": "New Zealand",
+        "countrycode": "NZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1421677,
+          -43.5950017
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"latitude -33.8568 longitude 151.2153\"}": [],
+  "{\"limit\": 1, \"q\": \"Louvre, Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.3317162,48.8593816,2.3400113,48.8629132\", \"include\": \"osm.building.cultural\", \"limit\": 1}": [],
+  "{\"bbox\": \"-118.599188,14.3811832,-86.493266,32.7187133\", \"include\": \"osm.amenity.pharmacy\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 10043533244,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "name": "Farmacia Gil",
+        "street": "Calle Progreso Nacional",
+        "locality": "Colonia Progreso Nacional",
+        "district": "Gustavo A. Madero",
+        "state": "Mexico City",
+        "country": "Mexico",
+        "postcode": "07600",
+        "countrycode": "MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1567745,
+          19.5183103
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"jambalaya\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2360968692,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Jambalaya",
+        "street": "Calzada del Valle Alberto Santos",
+        "locality": "Del Valle",
+        "city": "San Pedro Garza García",
+        "county": "San Pedro Garza García",
+        "state": "Nuevo León",
+        "country": "Mexico",
+        "postcode": "66220",
+        "countrycode": "MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3796899,
+          25.6596139
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"jambalaya Cameroon\"}": [],
+  "{\"bbox\": \"4.3202178,51.9663163,4.4079109,52.0325988\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1482289743,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Snack Bar 't Duldertje",
+        "street": "Javastraat",
+        "locality": "Indische Buurt",
+        "city": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "postcode": "2612 AN",
+        "countrycode": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3525789,
+          52.0226995
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Rotterdam\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1411101,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Rotterdam",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extra": {
+          "admin_level": "10"
+        },
+        "extent": [
+          4.3793095,
+          51.9942735,
+          4.6018092,
+          51.8616672
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47775,
+          51.9244424
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"4.3793095,51.8616672,4.6018092,51.9942735\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2610222389,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "21",
+        "name": "Parkheuvel",
+        "street": "Heuvellaan",
+        "locality": "Scheepvaartkwartier",
+        "district": "Centrum",
+        "city": "Rotterdam",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "postcode": "3016 GL",
+        "countrycode": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4715917,
+          51.9038755
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Louvre Museum\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bistro Jeanty Yountville, California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Zorblax's Cosmic Noodles in Delft, Netherlands\"}": [],
+  "{\"limit\": 1, \"q\": \"restaurants\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1211898997,
+        "osm_key": "landuse",
+        "osm_value": "retail",
+        "type": "locality",
+        "name": "Restaurants",
+        "city": "Boone Township",
+        "county": "Dallas",
+        "state": "Iowa",
+        "country": "United States",
+        "countrycode": "US",
+        "extent": [
+          -93.8487663,
+          41.5999041,
+          -93.8479303,
+          41.599627
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8483774,
+          41.5997421
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-93.8487663,41.599627,-93.8479303,41.5999041\", \"include\": \"osm.amenity.restaurant\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 6812628123,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "1222",
+        "name": "Central Standard",
+        "street": "Southeast University Avenue",
+        "city": "Waukee",
+        "county": "Dallas",
+        "state": "Iowa",
+        "country": "United States",
+        "postcode": "50263",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8480925,
+          41.59973
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"victuals delft\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 131362606,
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "type": "street",
+        "name": "Rua Pioneira Victalina Delfante Castanha",
+        "district": "Jardim Itália",
+        "city": "Maringá",
+        "state": "Paraná",
+        "country": "Brazil",
+        "postcode": "87060-400",
+        "countrycode": "BR",
+        "extent": [
+          -51.9480782,
+          -23.4515266,
+          -51.9433703,
+          -23.4519268
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9457246,
+          -23.4517204
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-51.9480782,-23.4519268,-51.9433703,-23.4515266\", \"include\": \"osm.cuisine.victuals\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"victuals rotterdam\"}": [],
+  "{\"bbox\": \"135.559006,34.874916,135.878442,35.3212207\", \"include\": \"osm.amenity.toilet\", \"limit\": 10}": [],
+  "{\"bbox\": \"2.2933119,48.8574753,2.2956897,48.8590453\", \"include\": \"osm.landuse.park\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"Katz's Delicatessen\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1915398676,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "205",
+        "name": "Katz's Delicatessen",
+        "street": "East Houston Street",
+        "locality": "Manhattan Community Board 3",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10002",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987353,
+          40.7223431
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.2933119,48.8574753,2.2956897,48.8590453\", \"include\": \"osm.landmark\", \"limit\": 1}": [],
+  "{\"bbox\": \"151.214428,-33.8579291,151.2158894,-33.856305\", \"include\": \"osm.landmark\", \"limit\": 1}": [],
+  "{\"bbox\": \"2.3317162,48.8593816,2.3400113,48.8629132\", \"include\": \"osm.amenity.museum\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"Bistro Jeanty\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 11828405767,
+        "osm_key": "amenity",
+        "osm_value": "pub",
+        "type": "house",
+        "housenumber": "3380",
+        "name": "Bistro Chez Alberto",
+        "street": "Rue Jean-Talon Est",
+        "locality": "Le Petit Maghreb",
+        "district": "Villeray–Saint-Michel–Parc-Extension",
+        "city": "Montreal",
+        "county": "Urban agglomeration of Montreal",
+        "state": "Quebec",
+        "country": "Canada",
+        "postcode": "H2A 1W3",
+        "countrycode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5968288,
+          45.5603077
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-74.0451069,40.6888049,-74.0439637,40.6896741\", \"include\": \"osm.landmark.statue_of_liberty\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"The Fat Duck\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 60491186,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The Fat Duck",
+        "street": "High Street",
+        "district": "Bray Wick",
+        "city": "Bray",
+        "county": "Royal Borough of Windsor and Maidenhead",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SL6 2AQ",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7017133,
+          51.5079166
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Mus\\u00e9e national du Cameroun, Yaound\\u00e9\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 188279621,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Musée National",
+        "street": "Rue 3.038",
+        "district": "Centre Administratif",
+        "city": "Yaoundé",
+        "county": "Mfoundi",
+        "state": "Centre",
+        "country": "Cameroon",
+        "countrycode": "CM",
+        "extent": [
+          11.5152212,
+          3.8607669,
+          11.5159021,
+          3.8601722
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5156224,
+          3.8604676
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"11.5152212,3.8601722,11.5159021,3.8607669\", \"include\": \"osm.amenity.museum\", \"limit\": 1}": [],
+  "{\"bbox\": \"-0.1277991,51.5033074,-0.1273088,51.5036913\", \"include\": \"osm.address\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"latitude -33.8568 and longitude 151.2153\"}": [],
+  "{\"limit\": 1, \"q\": \"Bibliotheca Alexandrina\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 28825451,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "name": "Bibliotheca Alexandrina",
+        "street": "Al Zarkshy Street",
+        "district": "Shatby",
+        "city": "Alexandria",
+        "state": "Alexandria",
+        "country": "Egypt",
+        "postcode": "21526",
+        "countrycode": "EG",
+        "extent": [
+          29.9075652,
+          31.2096409,
+          29.9103465,
+          31.2076873
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9089329,
+          31.2086605
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.3317162,48.8593816,2.3400113,48.8629132\", \"include\": \"osm.landuse.museum\", \"limit\": 1}": [],
+  "{\"bbox\": \"2.2933119,48.8574753,2.2956897,48.8590453\", \"include\": \"osm.amenity.attraction\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"jambalaya restaurant\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2424239707,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Jambalaya Grill Restaurant",
+        "street": "Cortes Street",
+        "locality": "District II",
+        "district": "Poblacion",
+        "city": "Cauayan",
+        "state": "Isabela",
+        "country": "Philippines",
+        "postcode": "3305",
+        "countrycode": "PH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7685986,
+          16.9396087
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"victuals\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 8164707006,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "2-3",
+        "name": "Victuals & Co",
+        "street": "St. George's Passage",
+        "locality": "Deal town centre",
+        "district": "Deal",
+        "city": "Dover",
+        "county": "Kent",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "CT14 6TA",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4030723,
+          51.2254342
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"delft\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 324269,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          4.3202178,
+          52.0325988,
+          4.4079109,
+          51.9663163
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35839,
+          52.0114017
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"rotterdam\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1411101,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Rotterdam",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "countrycode": "NL",
+        "extra": {
+          "admin_level": "10"
+        },
+        "extent": [
+          4.3793095,
+          51.9942735,
+          4.6018092,
+          51.8616672
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47775,
+          51.9244424
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-51.9480782,-23.4519268,-51.9433703,-23.4515266\", \"include\": \"osm.amenity.restaurant\", \"limit\": 3}": [],
+  "{\"limit\": 1, \"q\": \"wheelchair accessible public toilets\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 472245223,
+        "osm_key": "amenity",
+        "osm_value": "toilets",
+        "type": "house",
+        "name": "Wheelchair Accessible Public Toilets",
+        "street": "South Main Street",
+        "city": "Buda",
+        "county": "Hays",
+        "state": "Texas",
+        "country": "United States",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8436859,
+          30.0799615
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The French Laundry, Yountville\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Katz's Delicatessen, New York City\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1915398676,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "205",
+        "name": "Katz's Delicatessen",
+        "street": "East Houston Street",
+        "locality": "Manhattan Community Board 3",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10002",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987353,
+          40.7223431
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Katz's Delicatessen, East Houston Street, New York City\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1915398676,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "205",
+        "name": "Katz's Delicatessen",
+        "street": "East Houston Street",
+        "locality": "Manhattan Community Board 3",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10002",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987353,
+          40.7223431
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Cambridge, Massachusetts\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1933745,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Cambridge",
+        "county": "Middlesex",
+        "state": "Massachusetts",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -71.1603989,
+          42.4042593,
+          -71.0639844,
+          42.3524025
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1040018,
+          42.3656347
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bistro Jeanty, Yountville\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Zorblax's Cosmic Noodles, Delft\"}": [],
+  "{\"limit\": 1, \"q\": \"Yountville\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 10095277,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "name": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -122.386985,
+          38.413392,
+          -122.350245,
+          38.37988
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359506,
+          38.4022008
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Fat Duck, Bray\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 60491186,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The Fat Duck",
+        "street": "High Street",
+        "district": "Bray Wick",
+        "city": "Bray",
+        "county": "Royal Borough of Windsor and Maidenhead",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SL6 2AQ",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7017133,
+          51.5079166
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Kyoto\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 3628707764,
+        "osm_key": "railway",
+        "osm_value": "station",
+        "type": "house",
+        "name": "Kyoto",
+        "street": "North-South Free Passage",
+        "locality": "Higashikujo-Kamitonodacho",
+        "district": "Minami Ward",
+        "city": "Kyoto",
+        "state": "Kyoto Prefecture",
+        "country": "Japan",
+        "postcode": "601-8002",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7584303,
+          34.9846076
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sydney Opera House, Sydney\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 9596872,
+        "osm_key": "amenity",
+        "osm_value": "arts_centre",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Sydney Opera House",
+        "street": "Macquarie Street",
+        "locality": "Quay Quarter",
+        "district": "Sydney",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": "2000",
+        "countrycode": "AU",
+        "extent": [
+          151.214428,
+          -33.856305,
+          151.2158894,
+          -33.8579291
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151234,
+          -33.857198
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Eagle and Child Oxford\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 113720981,
+        "osm_key": "building",
+        "osm_value": "pub",
+        "type": "house",
+        "housenumber": "49",
+        "name": "Eagle and Child",
+        "street": "St Giles'",
+        "district": "City Centre",
+        "city": "Oxford",
+        "county": "Oxfordshire",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "OX1 3LU",
+        "countrycode": "GB",
+        "extent": [
+          -1.2603899,
+          51.7572654,
+          -1.2602701,
+          51.7571879
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2603284,
+          51.7572211
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Eagle and Child, Oxford, UK\"}": [],
+  "{\"limit\": 1, \"q\": \"Hagia Sophia, Istanbul, T\\u00fcrkiye\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 109862851,
+        "osm_key": "amenity",
+        "osm_value": "place_of_worship",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Hagia Sophia",
+        "street": "Ayasofya Meydanı",
+        "locality": "Sultanahmet Mahallesi",
+        "district": "Cankurtaran",
+        "city": "Fatih",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "postcode": "34122",
+        "countrycode": "TR",
+        "extent": [
+          28.9790782,
+          41.009183,
+          28.9809169,
+          41.0078395
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9800112,
+          41.0085046
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Hagia Sophia Istanbul T\\u00fcrkiye\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 109862851,
+        "osm_key": "amenity",
+        "osm_value": "place_of_worship",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Hagia Sophia",
+        "street": "Ayasofya Meydanı",
+        "locality": "Sultanahmet Mahallesi",
+        "district": "Cankurtaran",
+        "city": "Fatih",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "postcode": "34122",
+        "countrycode": "TR",
+        "extent": [
+          28.9790782,
+          41.009183,
+          28.9809169,
+          41.0078395
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9800112,
+          41.0085046
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Petra, Jordan\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 7549551054,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "name": "Petra",
+        "county": "Petra Sub-District",
+        "state": "Ma'an",
+        "country": "Jordan",
+        "postcode": "71810",
+        "countrycode": "JO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4745669,
+          30.3258363
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bibliotheca Alexandrina, \\u00c9gypte\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 28825451,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "name": "Bibliotheca Alexandrina",
+        "street": "Al Zarkshy Street",
+        "district": "Shatby",
+        "city": "Alexandria",
+        "state": "Alexandria",
+        "country": "Egypt",
+        "postcode": "21526",
+        "countrycode": "EG",
+        "extent": [
+          29.9075652,
+          31.2096409,
+          29.9103465,
+          31.2076873
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9089329,
+          31.2086605
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Caf\\u00e9 de Flore\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 251699776,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Café de Flore",
+        "street": "Rue Saint-Benoît",
+        "locality": "Saint-Germain-des-Prés",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75006",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3326307,
+          48.8541444
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Caf\\u00e9 de Flore, Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 251699776,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Café de Flore",
+        "street": "Rue Saint-Benoît",
+        "locality": "Saint-Germain-des-Prés",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75006",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3326307,
+          48.8541444
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-122.386985,38.37988,-122.350245,38.413392\", \"include\": \"osm.amenity.restaurant\", \"limit\": 2}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1139089611,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bouchon Bistro",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US",
+        "extent": [
+          -122.3621195,
+          38.4026969,
+          -122.3617765,
+          38.4025001
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3619058,
+          38.4026418
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 71525,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "countrycode": "FR",
+        "extra": {
+          "admin_level": "6"
+        },
+        "extent": [
+          2.224122,
+          48.902156,
+          2.4697602,
+          48.8155755
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3483915,
+          48.8534951
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.tourism.museum\", \"limit\": 2}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 63178753,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Museum of Orsay",
+        "street": "Rue de la Légion d'Honneur",
+        "locality": "Invalides",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75007",
+        "countrycode": "FR",
+        "extent": [
+          2.325179,
+          48.8605465,
+          2.3278729,
+          48.8592911
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3265849,
+          48.8599179
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.amenity.museum\", \"limit\": 2}": [],
+  "{\"limit\": 1, \"q\": \"caf\\u00e9\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 394705975,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "6",
+        "name": "Кафана „?”",
+        "street": "Краља Петра",
+        "locality": "Dorćol",
+        "district": "Stari grad",
+        "city": "Belgrade",
+        "county": "City of Belgrade",
+        "state": "Central Serbia",
+        "country": "Serbia",
+        "postcode": "11000",
+        "countrycode": "RS",
+        "extent": [
+          20.4524406,
+          44.8177556,
+          20.4526802,
+          44.8175855
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4525602,
+          44.8176725
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"20.4524406,44.8175855,20.4526802,44.8177556\", \"include\": \"osm.amenity.cafe\", \"limit\": 1}": [],
+  "{\"bbox\": \"11.5152212,3.8601722,11.5159021,3.8607669\", \"include\": \"osm.museum\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"The Eagle and Child, Oxford\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 113720981,
+        "osm_key": "building",
+        "osm_value": "pub",
+        "type": "house",
+        "housenumber": "49",
+        "name": "Eagle and Child",
+        "street": "St Giles'",
+        "district": "City Centre",
+        "city": "Oxford",
+        "county": "Oxfordshire",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "OX1 3LU",
+        "countrycode": "GB",
+        "extent": [
+          -1.2603899,
+          51.7572654,
+          -1.2602701,
+          51.7571879
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2603284,
+          51.7572211
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.tourism.attraction\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4533627787,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Champs Élysées",
+        "locality": "Champs-Elysées",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75008",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3053312,
+          48.8707573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 16407465,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Pantheon",
+        "street": "Place du Panthéon",
+        "locality": "Quartier de la Sorbonne",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75005",
+        "countrycode": "FR",
+        "extent": [
+          2.3452665,
+          48.84658,
+          2.3468783,
+          48.8457975
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3460507,
+          48.8461947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 4433289,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "housenumber": "17",
+        "name": "Université Paris 1 Panthéon-Sorbonne - Centre Sorbonne",
+        "street": "Rue de la Sorbonne",
+        "locality": "Quartier de la Sorbonne",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75005",
+        "countrycode": "FR",
+        "extent": [
+          2.3425223,
+          48.8498218,
+          2.344695,
+          48.8474513
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3436034,
+          48.8486358
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Cambridge, Cambridge, Massachusetts, United States\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1933745,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Cambridge",
+        "county": "Middlesex",
+        "state": "Massachusetts",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -71.1603989,
+          42.4042593,
+          -71.0639844,
+          42.3524025
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1040018,
+          42.3656347
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"135.8536855,20.2145811,154.205541,35.8984245\", \"include\": \"osm.tourism.attraction\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 288269147,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Tokyo Skytree",
+        "street": "1",
+        "locality": "Oshiage 1",
+        "district": "Sumida",
+        "city": "Tokyo",
+        "state": "東京都",
+        "country": "Japan",
+        "postcode": "131-0045",
+        "countrycode": "JP",
+        "extent": [
+          139.8104009,
+          35.7102997,
+          139.8110268,
+          35.7097913
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8107141,
+          35.7100543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5337040199,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Odaiba",
+        "street": "ウエストプロムナード",
+        "locality": "Daiba 1",
+        "district": "Minato",
+        "city": "Tokyo",
+        "country": "Japan",
+        "postcode": "135-0091",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714719,
+          35.6275347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5439020592,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Shiodome Sio-Site",
+        "street": "Zero Studio Plaza",
+        "locality": "Higashi-Shinbashi 1",
+        "district": "Minato",
+        "city": "Tokyo",
+        "country": "Japan",
+        "postcode": "105-0021",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7604893,
+          35.6646201
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Atomium Brussels\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 19189218,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Atomium",
+        "street": "Boulevard du Centenaire - Eeuwfeestlaan",
+        "locality": "Heysel - Heizel",
+        "district": "Laeken - Laken",
+        "city": "Brussels",
+        "county": "Brussels-Capital",
+        "state": "Brussels-Capital",
+        "country": "Belgium",
+        "postcode": "1020",
+        "countrycode": "BE",
+        "extent": [
+          4.3407888,
+          50.8953584,
+          4.3422122,
+          50.8944842
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.341377,
+          50.8949208
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Taj Mahal Agra\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 375257537,
+        "osm_key": "historic",
+        "osm_value": "tomb",
+        "type": "house",
+        "name": "Taj Mahal",
+        "street": "Taj East Gate Road",
+        "district": "Taj Ganj",
+        "city": "Agra",
+        "county": "Agra",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "postcode": "282004",
+        "countrycode": "IN",
+        "extent": [
+          78.0415593,
+          27.1754823,
+          78.0426212,
+          27.1745358
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0421013,
+          27.1750075
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Atomium, Brussels\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 19189218,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Atomium",
+        "street": "Boulevard du Centenaire - Eeuwfeestlaan",
+        "locality": "Heysel - Heizel",
+        "district": "Laeken - Laken",
+        "city": "Brussels",
+        "county": "Brussels-Capital",
+        "state": "Brussels-Capital",
+        "country": "Belgium",
+        "postcode": "1020",
+        "countrycode": "BE",
+        "extent": [
+          4.3407888,
+          50.8953584,
+          4.3422122,
+          50.8944842
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.341377,
+          50.8949208
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Taj Mahal, Agra\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 375257537,
+        "osm_key": "historic",
+        "osm_value": "tomb",
+        "type": "house",
+        "name": "Taj Mahal",
+        "street": "Taj East Gate Road",
+        "district": "Taj Ganj",
+        "city": "Agra",
+        "county": "Agra",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "postcode": "282004",
+        "countrycode": "IN",
+        "extent": [
+          78.0415593,
+          27.1754823,
+          78.0426212,
+          27.1745358
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0421013,
+          27.1750075
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sagrada Fam\\u00edlia, Barcelona\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 3397396652,
+        "osm_key": "railway",
+        "osm_value": "stop",
+        "type": "house",
+        "name": "Sagrada Família",
+        "street": "Carrer de la Marina",
+        "locality": "la Sagrada Família",
+        "district": "l'Eixample",
+        "city": "Barcelona",
+        "county": "Barcelonès",
+        "state": "Catalonia",
+        "country": "Spain",
+        "postcode": "08013",
+        "countrycode": "ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1751243,
+          41.4039894
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sagrada Fam\\u00edlia Barcelona\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 3397396652,
+        "osm_key": "railway",
+        "osm_value": "stop",
+        "type": "house",
+        "name": "Sagrada Família",
+        "street": "Carrer de la Marina",
+        "locality": "la Sagrada Família",
+        "district": "l'Eixample",
+        "city": "Barcelona",
+        "county": "Barcelonès",
+        "state": "Catalonia",
+        "country": "Spain",
+        "postcode": "08013",
+        "countrycode": "ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1751243,
+          41.4039894
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The White House, Washington, DC\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 19761182,
+        "osm_key": "office",
+        "osm_value": "government",
+        "type": "house",
+        "housenumber": "1600",
+        "name": "White House",
+        "street": "Pennsylvania Avenue Northwest",
+        "district": "Ward 2",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "country": "United States",
+        "postcode": "20500",
+        "countrycode": "US",
+        "extent": [
+          -77.0368541,
+          38.8977959,
+          -77.0362509,
+          38.8974904
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365525,
+          38.8976387
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Fat Duck Bray\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 60491186,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The Fat Duck",
+        "street": "High Street",
+        "district": "Bray Wick",
+        "city": "Bray",
+        "county": "Royal Borough of Windsor and Maidenhead",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SL6 2AQ",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7017133,
+          51.5079166
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Sydney, NSW, Australia\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 5750005,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "countrycode": "AU",
+        "extent": [
+          150.260825,
+          -33.3641864,
+          151.3431756,
+          -34.2598367
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082848,
+          -33.8698439
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"pharmacy\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 13529061950,
+        "osm_key": "railway",
+        "osm_value": "station",
+        "type": "house",
+        "name": "Pharmacy",
+        "street": "Eglinton Avenue East",
+        "locality": "Clairlea-Birchmount",
+        "district": "Scarborough",
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "postcode": "M1L 2L9",
+        "countrycode": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2966347,
+          43.7258445
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"the place we agreed on earlier\"}": [],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.amenity.cafe\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 251699775,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "housenumber": "6",
+        "name": "Les Deux Magots",
+        "street": "Place Saint-Germain des Prés",
+        "locality": "Saint-Germain-des-Prés",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75006",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3330634,
+          48.854069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 408952536,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Café des 2 Moulins",
+        "street": "Rue Cauchois",
+        "locality": "Quartier des Grandes-Carrières",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75018",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333654,
+          48.8849197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 251699776,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Café de Flore",
+        "street": "Rue Saint-Benoît",
+        "locality": "Saint-Germain-des-Prés",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75006",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3326307,
+          48.8541444
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.amenity.museum\", \"limit\": 3}": [],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.amenity.cafe\", \"limit\": 2}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 251699775,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "housenumber": "6",
+        "name": "Les Deux Magots",
+        "street": "Place Saint-Germain des Prés",
+        "locality": "Saint-Germain-des-Prés",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75006",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3330634,
+          48.854069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 408952536,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "name": "Café des 2 Moulins",
+        "street": "Rue Cauchois",
+        "locality": "Quartier des Grandes-Carrières",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75018",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333654,
+          48.8849197
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.tourism.museum\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 63178753,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Museum of Orsay",
+        "street": "Rue de la Légion d'Honneur",
+        "locality": "Invalides",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75007",
+        "countrycode": "FR",
+        "extent": [
+          2.325179,
+          48.8605465,
+          2.3278729,
+          48.8592911
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3265849,
+          48.8599179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 55503397,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "housenumber": "19",
+        "name": "Centre Pompidou",
+        "street": "Rue Beaubourg",
+        "locality": "Quartier Saint-Merri",
+        "district": "Le Marais",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75004",
+        "countrycode": "FR",
+        "extent": [
+          2.3516571,
+          48.8613208,
+          2.3532219,
+          48.8597263
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3524221,
+          48.8604964
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Aoraki, New Zealand\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2625064349,
+        "osm_key": "natural",
+        "osm_value": "peak",
+        "type": "other",
+        "name": "Aoraki / Mount Cook",
+        "county": "Mackenzie District",
+        "state": "Canterbury",
+        "country": "New Zealand",
+        "countrycode": "NZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.1421677,
+          -43.5950017
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Mount Cook, New Zealand\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 267986959,
+        "osm_key": "place",
+        "osm_value": "suburb",
+        "type": "district",
+        "name": "Mount Cook",
+        "city": "Wellington",
+        "county": "Wellington City",
+        "state": "Wellington",
+        "country": "New Zealand",
+        "postcode": "6021",
+        "countrycode": "NZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7721374,
+          -41.3005712
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"4.3202178,51.9663163,4.4079109,52.0325988\", \"include\": \"osm.amenity.cafe\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5526221504,
+        "osm_key": "amenity",
+        "osm_value": "cafe",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Café Blauw",
+        "street": "Sint Agathaplein",
+        "locality": "City Centre",
+        "city": "Delft",
+        "state": "South Holland",
+        "country": "Netherlands",
+        "postcode": "2611 HR",
+        "countrycode": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3546364,
+          52.0121666
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Brandenburg Gate, Berlin, Germany\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 518071791,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Brandenburg Gate",
+        "street": "Pariser Platz",
+        "locality": "Friedrich-Wilhelm-Stadt",
+        "district": "Mitte",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "10117",
+        "countrycode": "DE",
+        "extent": [
+          13.3775798,
+          52.5164328,
+          13.3778251,
+          52.516117
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3777034,
+          52.5162699
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Brandenburg Gate, Berlin\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 518071791,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Brandenburg Gate",
+        "street": "Pariser Platz",
+        "locality": "Friedrich-Wilhelm-Stadt",
+        "district": "Mitte",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "10117",
+        "countrycode": "DE",
+        "extent": [
+          13.3775798,
+          52.5164328,
+          13.3778251,
+          52.516117
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3777034,
+          52.5162699
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Golden Gate Bridge, San Francisco\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1560010118,
+        "osm_key": "highway",
+        "osm_value": "motorway",
+        "type": "street",
+        "name": "Golden Gate Bridge",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "postcode": "24129",
+        "countrycode": "US",
+        "extent": [
+          -122.4765727,
+          37.8080536,
+          -122.4762623,
+          37.8077264
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4764175,
+          37.80789
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Golden Gate Bridge, San Francisco, CA\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1560010131,
+        "osm_key": "highway",
+        "osm_value": "motorway",
+        "type": "street",
+        "name": "Golden Gate Bridge",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "postcode": "24129",
+        "countrycode": "US",
+        "extent": [
+          -122.4762623,
+          37.8077264,
+          -122.4756577,
+          37.8071667
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4759589,
+          37.8074477
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"151.214428,-33.8579291,151.2158894,-33.856305\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 48629177,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Bennelong",
+        "street": "Upper Podium",
+        "district": "Sydney",
+        "city": "Sydney",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postcode": "2000",
+        "countrycode": "AU",
+        "extent": [
+          151.2145467,
+          -33.8573433,
+          151.214805,
+          -33.8577025
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2146826,
+          -33.857495
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"White House Washington DC\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 19761182,
+        "osm_key": "office",
+        "osm_value": "government",
+        "type": "house",
+        "housenumber": "1600",
+        "name": "White House",
+        "street": "Pennsylvania Avenue Northwest",
+        "district": "Ward 2",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "country": "United States",
+        "postcode": "20500",
+        "countrycode": "US",
+        "extent": [
+          -77.0368541,
+          38.8977959,
+          -77.0362509,
+          38.8974904
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365525,
+          38.8976387
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"White House, Washington DC\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 19761182,
+        "osm_key": "office",
+        "osm_value": "government",
+        "type": "house",
+        "housenumber": "1600",
+        "name": "White House",
+        "street": "Pennsylvania Avenue Northwest",
+        "district": "Ward 2",
+        "city": "Washington",
+        "state": "District of Columbia",
+        "country": "United States",
+        "postcode": "20500",
+        "countrycode": "US",
+        "extent": [
+          -77.0368541,
+          38.8977959,
+          -77.0362509,
+          38.8974904
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365525,
+          38.8976387
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"37.8199, -122.4783\"}": [],
+  "{\"limit\": 1, \"q\": \"Golden Gate Bridge, San Francisco, California, USA\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 1560010131,
+        "osm_key": "highway",
+        "osm_value": "motorway",
+        "type": "street",
+        "name": "Golden Gate Bridge",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "postcode": "24129",
+        "countrycode": "US",
+        "extent": [
+          -122.4762623,
+          37.8077264,
+          -122.4756577,
+          37.8071667
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4759589,
+          37.8074477
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.amenity.pharmacy\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2191795356,
+        "osm_key": "amenity",
+        "osm_value": "pharmacy",
+        "type": "house",
+        "name": "Pharmacie de la Porte d'Italie",
+        "street": "Rue Fernand Widal",
+        "locality": "Maison-Blanche",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75013",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3610099,
+          48.8187866
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"4.3629313,51.991163,4.3643324,51.9926957\", \"include\": \"osm.amenity.cafe\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"Hagia Sophia, Istanbul\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 109862851,
+        "osm_key": "amenity",
+        "osm_value": "place_of_worship",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Hagia Sophia",
+        "street": "Ayasofya Meydanı",
+        "locality": "Sultanahmet Mahallesi",
+        "district": "Cankurtaran",
+        "city": "Fatih",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "postcode": "34122",
+        "countrycode": "TR",
+        "extent": [
+          28.9790782,
+          41.009183,
+          28.9809169,
+          41.0078395
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9800112,
+          41.0085046
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Christ the Redeemer, Rio de Janeiro\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4919986733,
+        "osm_key": "tourism",
+        "osm_value": "attraction",
+        "type": "house",
+        "name": "Christ the Redeemer",
+        "district": "Alto da Boa Vista",
+        "city": "Rio de Janeiro",
+        "state": "Rio de Janeiro",
+        "country": "Brazil",
+        "postcode": "22470-180",
+        "countrycode": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2104585,
+          -22.9519173
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Space Needle, Seattle\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 12903132,
+        "osm_key": "man_made",
+        "osm_value": "tower",
+        "type": "house",
+        "housenumber": "400",
+        "name": "Space Needle",
+        "street": "Broad Street",
+        "locality": "South Lake Union",
+        "district": "Belltown",
+        "city": "Seattle",
+        "county": "King",
+        "state": "Washington",
+        "country": "United States",
+        "postcode": "98109",
+        "countrycode": "US",
+        "extent": [
+          -122.3495555,
+          47.620676,
+          -122.3490519,
+          47.6203364
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3493036,
+          47.6205131
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.224122,48.8155755,2.4697602,48.902156\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2271678887,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Maxim's",
+        "street": "Rue Royale",
+        "locality": "Quartier de la Madeleine",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75008",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3222252,
+          48.867315
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"restaurant, Paris\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5030300522,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Restaurant Lasserre",
+        "street": "Avenue Franklin Delano Roosevelt",
+        "locality": "Champs-Elysées",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75008",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3099159,
+          48.8663234
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Union Station\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1483140,
+        "osm_key": "building",
+        "osm_value": "train_station",
+        "type": "house",
+        "housenumber": "800",
+        "name": "Union Station",
+        "street": "North Alameda Street",
+        "locality": "New Chinatown",
+        "district": "Chinatown",
+        "city": "Los Angeles",
+        "county": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "postcode": "90012",
+        "countrycode": "US",
+        "extent": [
+          -118.2368137,
+          34.056903,
+          -118.2349153,
+          34.0552718
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2358962,
+          34.0560576
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-118.2368137,34.0552718,-118.2349153,34.056903\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 443287617,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "Traxx",
+        "street": "Union Station Driveway",
+        "locality": "Little Tokyo",
+        "district": "Chinatown",
+        "city": "Los Angeles",
+        "county": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "postcode": "90012",
+        "countrycode": "US",
+        "extent": [
+          -118.2363598,
+          34.0562175,
+          -118.2362865,
+          34.0561523
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2363231,
+          34.0561849
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Cambridge station\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 239620295,
+        "osm_key": "landuse",
+        "osm_value": "retail",
+        "type": "locality",
+        "housenumber": "301",
+        "name": "Cambridge Station",
+        "street": "Water Street South",
+        "city": "Cambridge",
+        "county": "Waterloo",
+        "state": "Ontario",
+        "country": "Canada",
+        "countrycode": "CA",
+        "extent": [
+          -80.3131715,
+          43.3408874,
+          -80.3114844,
+          43.3392726
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3126896,
+          43.3404214
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-80.3131715,43.3392726,-80.3114844,43.3408874\", \"include\": \"osm.amenity.pharmacy\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"Boston Common\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 17995454,
+        "osm_key": "leisure",
+        "osm_value": "park",
+        "type": "other",
+        "name": "Boston Common",
+        "district": "Beacon Hill",
+        "city": "Boston",
+        "county": "Suffolk",
+        "state": "Massachusetts",
+        "country": "United States",
+        "countrycode": "US",
+        "extent": [
+          -71.0691858,
+          42.3576063,
+          -71.0621238,
+          42.3524782
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066071,
+          42.35504
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-71.0691858,42.3524782,-71.0621238,42.3576063\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 7978956586,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "150",
+        "name": "Sal's Pizza",
+        "street": "Tremont Street",
+        "district": "Beacon Hill",
+        "city": "Boston",
+        "county": "Suffolk",
+        "state": "Massachusetts",
+        "country": "United States",
+        "postcode": "02111",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0632717,
+          42.3549171
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Oakland\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 2833530,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Oakland",
+        "county": "Alameda County",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -122.3558935,
+          37.8854257,
+          -122.1144203,
+          37.6301063
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271356,
+          37.8044557
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Berkeley\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 2833528,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Berkeley",
+        "county": "Alameda County",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -122.3686918,
+          37.9066896,
+          -122.2341962,
+          37.8356877
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Balboa Park\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 15082953,
+        "osm_key": "leisure",
+        "osm_value": "park",
+        "type": "other",
+        "name": "Balboa Park",
+        "city": "San Diego",
+        "county": "San Diego",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extent": [
+          -117.1593133,
+          32.7443371,
+          -117.1336858,
+          32.7194184
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1465253,
+          32.7316771
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.3317162,48.8593816,2.3400113,48.8629132\", \"include\": \"osm.tourism.museum\", \"limit\": 3}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 7515426,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "Louvre Museum",
+        "street": "Place du Carrousel",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR",
+        "extent": [
+          2.3317162,
+          48.8629132,
+          2.3400113,
+          48.8593816
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3380277,
+          48.8611473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 13260353506,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "housenumber": "2",
+        "name": "Fondation Cartier pour l'art contemporain",
+        "street": "Place du Palais-Royal",
+        "locality": "Quartier du Palais Royal",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3382323,
+          48.8621189
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"UCLA\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 184488683,
+        "osm_key": "amenity",
+        "osm_value": "university",
+        "type": "house",
+        "housenumber": "110",
+        "name": "UCLA Anderson School of Management",
+        "street": "Westwood Plaza",
+        "district": "Westwood",
+        "city": "Los Angeles",
+        "county": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "postcode": "90095",
+        "countrycode": "US",
+        "extent": [
+          -118.4447379,
+          34.0746534,
+          -118.4426607,
+          34.0733115
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4435621,
+          34.0739918
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Santa Monica Pier\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 22728853,
+        "osm_key": "man_made",
+        "osm_value": "pier",
+        "type": "house",
+        "name": "Santa Monica Pier",
+        "street": "Ocean Front Walk",
+        "locality": "Downtown Santa Monica",
+        "city": "Santa Monica",
+        "county": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "postcode": "90401",
+        "countrycode": "US",
+        "extent": [
+          -118.5001913,
+          34.0105585,
+          -118.4955902,
+          34.0072888
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4973998,
+          34.0088961
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"British Museum\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 177044,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "name": "British Museum",
+        "street": "Great Russell Street",
+        "locality": "St Giles",
+        "district": "Bloomsbury",
+        "city": "London Borough of Camden",
+        "county": "Greater London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "WC1B 3DG",
+        "countrycode": "GB",
+        "extent": [
+          -0.1288843,
+          51.5205596,
+          -0.1248691,
+          51.5180651
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1267051,
+          51.5193118
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"9500 Gilman Drive\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 25822522,
+        "osm_key": "amenity",
+        "osm_value": "university",
+        "type": "house",
+        "housenumber": "9500",
+        "name": "University of California, San Diego",
+        "street": "Gilman Drive",
+        "locality": "La Jolla Farms",
+        "district": "Torrey Pines",
+        "city": "San Diego",
+        "county": "San Diego",
+        "state": "California",
+        "country": "United States",
+        "postcode": "92093",
+        "countrycode": "US",
+        "extent": [
+          -117.2547461,
+          32.8941294,
+          -117.2183739,
+          32.8635576
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2311247,
+          32.8792438
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-117.2547461,32.8635576,-117.2183739,32.8941294\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4670774478,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "9500",
+        "name": "Taco Villa",
+        "street": "Gilman Drive",
+        "locality": "La Jolla Farms",
+        "district": "Torrey Pines",
+        "city": "San Diego",
+        "county": "San Diego",
+        "state": "California",
+        "country": "United States",
+        "postcode": "92093",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.240022,
+          32.8769198
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-117.1593133,32.7194184,-117.1336858,32.7443371\", \"include\": \"osm.amenity.parking\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 25841666,
+        "osm_key": "amenity",
+        "osm_value": "parking",
+        "type": "house",
+        "name": "Bea Evenson Parking Lot",
+        "street": "Plaza de Balboa",
+        "district": "Banker's Hill",
+        "city": "San Diego",
+        "county": "San Diego",
+        "state": "California",
+        "country": "United States",
+        "postcode": "92134",
+        "countrycode": "US",
+        "extent": [
+          -117.146933,
+          32.7329003,
+          -117.1465301,
+          32.7320214
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1467288,
+          32.7324226
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"2.3317162,48.8593816,2.3400113,48.8629132\", \"include\": \"osm.amenity.restaurant\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 13036982902,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "107",
+        "name": "Loulou",
+        "street": "Rue de Rivoli",
+        "locality": "Saint-Germain-l'Auxerrois",
+        "district": "Paris",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "country": "France",
+        "postcode": "75001",
+        "countrycode": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3333881,
+          48.8627623
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Griffith Observatory\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 422130705,
+        "osm_key": "tourism",
+        "osm_value": "museum",
+        "type": "house",
+        "housenumber": "2800",
+        "name": "Griffith Observatory",
+        "street": "East Observatory Road",
+        "locality": "Los Feliz Neighborhood Council District",
+        "city": "Los Angeles",
+        "county": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "postcode": "90027",
+        "countrycode": "US",
+        "extent": [
+          -118.3007605,
+          34.1184548,
+          -118.299984,
+          34.1179721
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3002933,
+          34.1182187
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Shinjuku Station\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 137626342,
+        "osm_key": "amenity",
+        "osm_value": "police",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Shinjuku Police Station",
+        "street": "1",
+        "locality": "Nishi-Shinjuku 6",
+        "district": "Shinjuku",
+        "city": "Tokyo",
+        "state": "東京都",
+        "country": "Japan",
+        "postcode": "160-0023",
+        "countrycode": "JP",
+        "extent": [
+          139.694245,
+          35.6937119,
+          139.6947235,
+          35.6932813
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6944843,
+          35.6934966
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Potsdamer Platz\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 3200536,
+        "osm_key": "highway",
+        "osm_value": "footway",
+        "type": "street",
+        "name": "Potsdamer Platz",
+        "district": "Tiergarten",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "10785",
+        "countrycode": "DE",
+        "extent": [
+          13.3750548,
+          52.5100442,
+          13.3769309,
+          52.5083603
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3755898,
+          52.5098014
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Alexanderplatz\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 783052052,
+        "osm_key": "place",
+        "osm_value": "square",
+        "type": "locality",
+        "name": "Alexanderplatz",
+        "district": "Mitte",
+        "city": "Berlin",
+        "country": "Germany",
+        "countrycode": "DE",
+        "extent": [
+          13.4103097,
+          52.5238113,
+          13.4160801,
+          52.5201457
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4136358,
+          52.5219814
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Osaka\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 358674,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Osaka",
+        "state": "Osaka Prefecture",
+        "country": "Japan",
+        "countrycode": "JP",
+        "extra": {
+          "admin_level": "7"
+        },
+        "extent": [
+          135.3099784,
+          34.768849,
+          135.5991702,
+          34.586154
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5014539,
+          34.6937569
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Tate Modern\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 24642569,
+        "osm_key": "tourism",
+        "osm_value": "gallery",
+        "type": "house",
+        "name": "Tate Modern",
+        "street": "Bankside",
+        "locality": "Borough Market",
+        "district": "Southwark",
+        "city": "London Borough of Southwark",
+        "county": "Greater London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SE1 9TG",
+        "countrycode": "GB",
+        "extent": [
+          -0.1006284,
+          51.5079806,
+          -0.098144,
+          51.5068778
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0993416,
+          51.5074293
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Borough Market\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 24282400,
+        "osm_key": "amenity",
+        "osm_value": "marketplace",
+        "type": "house",
+        "name": "Borough Market",
+        "street": "Borough High Street",
+        "locality": "Borough Market",
+        "district": "The Borough",
+        "city": "London Borough of Southwark",
+        "county": "Greater London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "SE1 9AL",
+        "countrycode": "GB",
+        "extent": [
+          -0.0915277,
+          51.506233,
+          -0.0890926,
+          51.5049437
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0901984,
+          51.5055815
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-0.1277991,51.5033074,-0.1273088,51.5036913\", \"include\": \"osm.amenity.fuel\", \"limit\": 5}": [],
+  "{\"limit\": 1, \"q\": \"Lake Merritt\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 34513,
+        "osm_key": "water",
+        "osm_value": "lagoon",
+        "type": "other",
+        "name": "Lake Merritt",
+        "district": "Downtown Oakland",
+        "city": "Oakland",
+        "county": "Alameda County",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extent": [
+          -122.2631127,
+          37.8106046,
+          -122.2496248,
+          37.7985916
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2562502,
+          37.804621
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-122.2631127,37.7985916,-122.2496248,37.8106046\", \"include\": \"osm.leisure.park\", \"limit\": 1}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 224771927,
+        "osm_key": "leisure",
+        "osm_value": "park",
+        "type": "other",
+        "name": "Lakeside Park",
+        "district": "Downtown Oakland",
+        "city": "Oakland",
+        "county": "Alameda County",
+        "state": "California",
+        "country": "United States",
+        "countrycode": "US",
+        "extent": [
+          -122.2635249,
+          37.8107144,
+          -122.2493196,
+          37.7983671
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2560601,
+          37.804522
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"bookstores\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4323551389,
+        "osm_key": "shop",
+        "osm_value": "books",
+        "type": "house",
+        "name": "MPH Bookstores",
+        "street": "Gurney Close 1",
+        "locality": "Pulau Tikus",
+        "district": "Central George Town",
+        "city": "George Town",
+        "state": "Penang Island",
+        "country": "Malaysia",
+        "postcode": "10250",
+        "countrycode": "MY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.309616,
+          5.4377926
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"King's Cross station\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 45856587,
+        "osm_key": "highway",
+        "osm_value": "footway",
+        "type": "street",
+        "name": "King's Cross Station Concourse",
+        "district": "King's Cross",
+        "city": "London Borough of Camden",
+        "county": "Greater London",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "N1C 4DE",
+        "countrycode": "GB",
+        "extent": [
+          -0.123481,
+          51.5311175,
+          -0.1234805,
+          51.5309866
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1234807,
+          51.5310521
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bristol\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 57539,
+        "osm_key": "boundary",
+        "osm_value": "administrative",
+        "type": "county",
+        "name": "Bristol",
+        "state": "England",
+        "country": "United Kingdom",
+        "countrycode": "GB",
+        "extra": {
+          "admin_level": "6"
+        },
+        "extent": [
+          -3.1178243,
+          51.5444317,
+          -2.5104192,
+          51.3416261
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5816622,
+          51.4430141
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Bath\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 5342409,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Bath",
+        "county": "Bath and North East Somerset",
+        "state": "England",
+        "country": "United Kingdom",
+        "countrycode": "GB",
+        "extent": [
+          -2.4141955,
+          51.4112023,
+          -2.3157642,
+          51.3505346
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3596963,
+          51.3813864
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Lisbon\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 2897141,
+        "osm_key": "boundary",
+        "osm_value": "administrative",
+        "type": "county",
+        "name": "Lisbon",
+        "country": "Portugal",
+        "countrycode": "PT",
+        "extra": {
+          "admin_level": "6"
+        },
+        "extent": [
+          -9.5005266,
+          39.3177287,
+          -8.781861,
+          38.6731469
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1435928,
+          38.9952469
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Katz's Delicatessen on East Houston Street in New York City\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1915398676,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "housenumber": "205",
+        "name": "Katz's Delicatessen",
+        "street": "East Houston Street",
+        "locality": "Manhattan Community Board 3",
+        "district": "Manhattan",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "postcode": "10002",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987353,
+          40.7223431
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The Eagle and Child pub, Oxford, UK\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 533873297,
+        "osm_key": "highway",
+        "osm_value": "bus_stop",
+        "type": "house",
+        "name": "The Hatchet Pub",
+        "street": "Hollow Way",
+        "district": "Childrey",
+        "city": "Vale of White Horse",
+        "county": "Oxfordshire",
+        "state": "England",
+        "country": "United Kingdom",
+        "postcode": "OX12 9UG",
+        "countrycode": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4799443,
+          51.5840286
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Hagia Sophia, Istanbul, Turkey\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 109862851,
+        "osm_key": "amenity",
+        "osm_value": "place_of_worship",
+        "type": "house",
+        "housenumber": "1",
+        "name": "Hagia Sophia",
+        "street": "Ayasofya Meydanı",
+        "locality": "Sultanahmet Mahallesi",
+        "district": "Cankurtaran",
+        "city": "Fatih",
+        "state": "Istanbul",
+        "country": "Turkey",
+        "postcode": "34122",
+        "countrycode": "TR",
+        "extent": [
+          28.9790782,
+          41.009183,
+          28.9809169,
+          41.0078395
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9800112,
+          41.0085046
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Petra in Jordan\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 11339367169,
+        "osm_key": "shop",
+        "osm_value": "gift",
+        "type": "house",
+        "name": "The Art of Filling Sand In a Bottle",
+        "street": "King's Highway",
+        "city": "Wadi Musa",
+        "county": "Petra Sub-District",
+        "state": "Ma'an",
+        "country": "Jordan",
+        "postcode": "71810",
+        "countrycode": "JO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4969502,
+          30.3243635
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"biblioth\\u00e8que moderne Bibliotheca Alexandrina\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4426315334,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "name": "المكتبة العصرية",
+        "street": "شارع البيئة",
+        "district": "Awlad Abu Hamira Al-Daw",
+        "city": "Al Zawiyah",
+        "state": "Az Zawiyah",
+        "country": "Libya",
+        "countrycode": "LY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7333074,
+          32.7636714
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Seattle\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 237385,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Seattle",
+        "county": "King",
+        "state": "Washington",
+        "country": "United States",
+        "countrycode": "US",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -122.459696,
+          47.7341503,
+          -122.224433,
+          47.4810022
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330062,
+          47.6038321
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"my hotel\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 9547382420,
+        "osm_key": "tourism",
+        "osm_value": "hotel",
+        "type": "house",
+        "housenumber": "14",
+        "name": "My Hotel Milano",
+        "street": "Via Giasone del Maino",
+        "locality": "Quartiere De Angeli - Frua",
+        "district": "Municipio 7",
+        "city": "Milan",
+        "county": "Milan",
+        "state": "Lombardy",
+        "country": "Italy",
+        "postcode": "20146",
+        "countrycode": "IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1532129,
+          45.4629014
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"conference\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4580816377,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "name": "Conference",
+        "county": "Saint Andrew",
+        "country": "Grenada",
+        "countrycode": "GD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.6173921,
+          12.1603548
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Madrid\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 5326784,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "name": "Madrid",
+        "state": "Community of Madrid",
+        "country": "Spain",
+        "countrycode": "ES",
+        "extra": {
+          "admin_level": "8"
+        },
+        "extent": [
+          -3.8889539,
+          40.6437293,
+          -3.5183264,
+          40.3119774
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703507,
+          40.416782
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"The French Laundry restaurant in Yountville, California\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5364830126,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "name": "The French Laundry",
+        "street": "Washington Street",
+        "city": "Yountville",
+        "county": "Napa",
+        "state": "California",
+        "country": "United States",
+        "postcode": "94599",
+        "countrycode": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3647106,
+          38.4042648
+        ]
+      }
+    }
+  ],
+  "{\"bbox\": \"-51.9480782,-23.4519268,-51.9433703,-23.4515266\", \"include\": \"osm.amenity.cafe\", \"limit\": 1}": [],
+  "{\"limit\": 1, \"q\": \"latitude 64.1466, longitude -21.9426\"}": [],
+  "{\"limit\": 1, \"q\": \"-33.8568, 151.2153\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 14095875123,
+        "osm_key": "historic",
+        "osm_value": "vehicle",
+        "type": "house",
+        "housenumber": "2-1-33",
+        "name": "1955 Chevrolet 150",
+        "street": "Brighton Way",
+        "locality": "Universal Studios Japan",
+        "district": "Konohana Ward",
+        "city": "Osaka",
+        "state": "Osaka Prefecture",
+        "country": "Japan",
+        "postcode": "554-0031",
+        "countrycode": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4333147,
+          34.6658015
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"59.3293, 18.0686\"}": [],
+  "{\"limit\": 1, \"q\": \"the restaurant we discussed yesterday\"}": [],
+  "{\"limit\": 1, \"q\": \"Space Needle\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 12903132,
+        "osm_key": "man_made",
+        "osm_value": "tower",
+        "type": "house",
+        "housenumber": "400",
+        "name": "Space Needle",
+        "street": "Broad Street",
+        "locality": "South Lake Union",
+        "district": "Belltown",
+        "city": "Seattle",
+        "county": "King",
+        "state": "Washington",
+        "country": "United States",
+        "postcode": "98109",
+        "countrycode": "US",
+        "extent": [
+          -122.3495555,
+          47.620676,
+          -122.3490519,
+          47.6203364
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3493036,
+          47.6205131
+        ]
+      }
+    }
+  ],
+  "{\"limit\": 1, \"q\": \"Powell's City of Books\"}": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 34198762,
+        "osm_key": "shop",
+        "osm_value": "books",
+        "type": "house",
+        "housenumber": "1005",
+        "name": "Powell's City of Books",
+        "street": "West Burnside Street",
+        "district": "Pearl District",
+        "city": "Portland",
+        "county": "Multnomah",
+        "state": "Oregon",
+        "country": "United States",
+        "postcode": "97209",
+        "countrycode": "US",
+        "extent": [
+          -122.6820624,
+          45.5236354,
+          -122.6812168,
+          45.5230338
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6816396,
+          45.5233346
+        ]
+      }
+    }
+  ]
+}
