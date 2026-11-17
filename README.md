@@ -25,7 +25,10 @@ To install elsewhere, run `conda env create -f environment.yml` and
 The first call classifies the request; a second extracts names only when needed.
 Implicit nearby searches require exactly one contextual location. Other missing
 references produce `null`. Errors raise exceptions rather than becoming `null`.
-There is no geocoding, location lookup, conversation storage, or frontend yet.
+There is no geocoding, location lookup, or conversation storage. The separate
+React frontend is a sample-data preview with spec-driven panels and a map;
+chat and editing are disabled until the dinner-planning API is available. See
+[spec-renderer/README.md](spec-renderer/README.md).
 
 The cases retain their original groups: `prompt` (7), `new` (24 development
 cases), and `fresh` (24 later checks). Future reruns are regression checks, not

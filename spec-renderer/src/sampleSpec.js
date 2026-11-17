@@ -9,6 +9,9 @@ export const mapSpec = {
       id: { type: "string", function: "privateIdentifier", render: "hidden", editable: false },
       title: { type: "string", function: "publicIdentifier", render: "shortText", editable: true },
       date: { type: "string", function: "display", render: "time", editable: true },
+      guests: { type: "number", function: "display", render: "number", editable: true },
+      notes: { type: "string", function: "display", render: "paragraph", editable: true },
+      preferredRestaurant: { type: "__RESTAURANT__", function: "display", render: "pointer", editable: true },
       restaurants: {
         type: "array",
         function: "display",
@@ -28,6 +31,9 @@ export const mapSpec = {
       id: "plan-1",
       title: "Friday dinner",
       date: "2026-11-06",
+      guests: 4,
+      notes: "Find a place for dinner with friends.",
+      preferredRestaurant: "r1",
       restaurants: ["r1", "r2", "r3"],
     },
     RESTAURANT: {
